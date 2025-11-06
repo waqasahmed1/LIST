@@ -1,0 +1,1167 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="⭐⭐⭐OpenTv Romania⭐⭐⭐" tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="Romania ",⭐⭐⭐OpenTv Romania⭐⭐⭐
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/75879.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="⭐⭐⭐MIREASA⭐⭐⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/2/27/Mireasa_Logo.png" group-title="Romania ",⭐⭐⭐MIREASA⭐⭐⭐
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/51856.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="⭐⭐⭐Mireasa Plus⭐⭐⭐" tvg-logo="https://assets.antenaplay.ro/2023/04/13/Xupo2qlnOHckDXhaOOCU.png" group-title="Romania ",⭐⭐⭐Mireasa Plus⭐⭐⭐
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/51857.m3u8
+#EXTINF:-1 tvg-id="antena1.ro" tvg-name="Antena 1 SD" tvg-logo="https://treambura.com/reseller/resize.php?max=32&url=https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Logo_Antena_1_%282010%29.svg/867px-Logo_Antena_1_%282010%29.svg.png" group-title="Romania ",Antena 1 SD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70429.m3u8
+#EXTINF:-1 tvg-id="antena1.ro" tvg-name="Antena 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Logo_Antena_1_%282010%29.svg/867px-Logo_Antena_1_%282010%29.svg.png" group-title="Romania ",Antena 1 HD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9051.m3u8
+#EXTINF:-1 tvg-id="antena1.ro" tvg-name="Antena 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Logo_Antena_1_%282010%29.svg/867px-Logo_Antena_1_%282010%29.svg.png" group-title="Romania ",Antena 1 FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/8970.m3u8
+#EXTINF:-1 tvg-id="antena1.ro" tvg-name="Antena 1 2K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Logo_Antena_1_%282010%29.svg/867px-Logo_Antena_1_%282010%29.svg.png" group-title="Romania ",Antena 1 2K
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/8971.m3u8
+#EXTINF:-1 tvg-id="antena1.ro" tvg-name="Antena 1 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Logo_Antena_1_%282010%29.svg/867px-Logo_Antena_1_%282010%29.svg.png" group-title="Romania ",Antena 1 4K
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/13180.m3u8
+#EXTINF:-1 tvg-id="antena1.ro" tvg-name="Antena 1 HDR (Net Bun)" tvg-logo="" group-title="Romania ",Antena 1 HDR (Net Bun)
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70447.m3u8
+#EXTINF:-1 tvg-id="protv.ro" tvg-name="Pro TV SD" tvg-logo="https://treambura.com/reseller/resize.php?max=32&url=https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_Pro_TV_%282017%29.svg/1024px-Logo_Pro_TV_%282017%29.svg.png" group-title="Romania ",Pro TV SD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70428.m3u8
+#EXTINF:-1 tvg-id="protv.ro" tvg-name="Pro TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_Pro_TV_%282017%29.svg/1024px-Logo_Pro_TV_%282017%29.svg.png" group-title="Romania ",Pro TV HD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9048.m3u8
+#EXTINF:-1 tvg-id="protv.ro" tvg-name="Pro TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_Pro_TV_%282017%29.svg/1024px-Logo_Pro_TV_%282017%29.svg.png" group-title="Romania ",Pro TV FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/8968.m3u8
+#EXTINF:-1 tvg-id="protv.ro" tvg-name="Pro TV 2K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_Pro_TV_%282017%29.svg/1024px-Logo_Pro_TV_%282017%29.svg.png" group-title="Romania ",Pro TV 2K
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9394.m3u8
+#EXTINF:-1 tvg-id="protv.ro" tvg-name="Pro Tv 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_Pro_TV_%282017%29.svg/1024px-Logo_Pro_TV_%282017%29.svg.png" group-title="Romania ",Pro Tv 4K
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/13181.m3u8
+#EXTINF:-1 tvg-id="protv.ro" tvg-name="Pro TV HDR (Net Bun)" tvg-logo="https://i.ibb.co/t4mkrkW/Pro-TV-HD-logo-2017.png" group-title="Romania ",Pro TV HDR (Net Bun)
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70448.m3u8
+#EXTINF:-1 tvg-id="protv.ro" tvg-name="Pro TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_Pro_TV_%282017%29.svg/1024px-Logo_Pro_TV_%282017%29.svg.png" group-title="Romania ",Pro TV FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/8969.m3u8
+#EXTINF:-1 tvg-id="kanald.ro" tvg-name="Kanal D SD" tvg-logo="https://treambura.com/reseller/resize.php?max=32&url=https://upload.wikimedia.org/wikipedia/tr/thumb/c/ca/Kanal_D_logo.svg/1200px-Kanal_D_logo.svg.png" group-title="Romania ",Kanal D SD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70427.m3u8
+#EXTINF:-1 tvg-id="kanald.ro" tvg-name="Kanal D HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/c/ca/Kanal_D_logo.svg/1200px-Kanal_D_logo.svg.png" group-title="Romania ",Kanal D HD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9064.m3u8
+#EXTINF:-1 tvg-id="kanald.ro" tvg-name="Kanal D FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/c/ca/Kanal_D_logo.svg/1200px-Kanal_D_logo.svg.png" group-title="Romania ",Kanal D FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9395.m3u8
+#EXTINF:-1 tvg-id="kanald.ro" tvg-name="Kanal D 2K" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/c/ca/Kanal_D_logo.svg/1200px-Kanal_D_logo.svg.png" group-title="Romania ",Kanal D 2K
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/8974.m3u8
+#EXTINF:-1 tvg-id="kanald.ro" tvg-name="Kanal D 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/c/ca/Kanal_D_logo.svg/1200px-Kanal_D_logo.svg.png" group-title="Romania ",Kanal D 4K
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/8975.m3u8
+#EXTINF:-1 tvg-id="kanald.ro" tvg-name="Kanal D HDR (Net Bun)" tvg-logo="" group-title="Romania ",Kanal D HDR (Net Bun)
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70449.m3u8
+#EXTINF:-1 tvg-id="kanald2.ro" tvg-name="Kanal D2 HD" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMyUyRjA0/JTJGMDUlMkYxNzA4Mzc3XzE3MDgzNzdf/MTUyeDUwcHhfcG5nU0RfS2FuYWwyLnBu/ZyZoYXNoPTkyN2VhZTk3NTFiN2FjYzAzNTQ0MWExOGU1MWUwZTA5.png" group-title="Romania ",Kanal D2 HD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9062.m3u8
+#EXTINF:-1 tvg-id="kanald2.ro" tvg-name="Kanal D2 FHD" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMyUyRjA0/JTJGMDUlMkYxNzA4Mzc3XzE3MDgzNzdf/MTUyeDUwcHhfcG5nU0RfS2FuYWwyLnBu/ZyZoYXNoPTkyN2VhZTk3NTFiN2FjYzAzNTQ0MWExOGU1MWUwZTA5.png" group-title="Romania ",Kanal D2 FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/54195.m3u8
+#EXTINF:-1 tvg-id="kanald2.ro" tvg-name="Kanal D2 HDR (Net Bun)" tvg-logo="" group-title="Romania ",Kanal D2 HDR (Net Bun)
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70494.m3u8
+#EXTINF:-1 tvg-id="digi4k.ro" tvg-name="Digi 4K" tvg-logo="https://www.media-max.ro/wp-content/uploads/2020/05/Digi-4k-disponibil-temporar-necriptat.png" group-title="Romania ",Digi 4K
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/8979.m3u8
+#EXTINF:-1 tvg-id="primatv.ro" tvg-name="Prima TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Prima_TV_%282021%29.png" group-title="Romania ",Prima TV SD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9063.m3u8
+#EXTINF:-1 tvg-id="primatv.ro" tvg-name="Prima TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Prima_TV_%282021%29.png" group-title="Romania ",Prima TV FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/24842.m3u8
+#EXTINF:-1 tvg-id="primatv.ro" tvg-name="Prima TV HDR (Net Bun)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Prima_TV_%282021%29.png" group-title="Romania ",Prima TV HDR (Net Bun)
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70493.m3u8
+#EXTINF:-1 tvg-id="primacomedy.ro" tvg-name="Prima Comedy" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMyUyRjAz/JTJGMTAlMkYxNjkzMTMxXzE2OTMxMzFf/MTUyeDUwcHhfcG5nU0RfcHJpbWFjb21l/ZHkucG5nJmhhc2g9MTMwMmFkMTMwYzgxODQ5OWFlZDlmNjM4YTZiM2QyYzA=.png" group-title="Romania ",Prima Comedy
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/31386.m3u8
+#EXTINF:-1 tvg-id="tvr1.ro" tvg-name="TVR 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/TVR_1_2022_logo.png" group-title="Romania ",TVR 1
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9058.m3u8
+#EXTINF:-1 tvg-id="tvr1.ro" tvg-name="TVR 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/TVR_1_2022_logo.png" group-title="Romania ",TVR 1 FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/8977.m3u8
+#EXTINF:-1 tvg-id="tvr2.ro" tvg-name="TVR 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/TVR_2_2022_logo.png" group-title="Romania ",TVR 2
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9059.m3u8
+#EXTINF:-1 tvg-id="tvr2.ro" tvg-name="TVR 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/TVR_2_2022_logo.png" group-title="Romania ",TVR 2 FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/8978.m3u8
+#EXTINF:-1 tvg-id="tvr3.ro" tvg-name="TVR 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/TVR3_logo_2019.svg/2560px-TVR3_logo_2019.svg.png" group-title="Romania ",TVR 3
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9060.m3u8
+#EXTINF:-1 tvg-id="tvr3.ro" tvg-name="TVR 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/TVR3_logo_2019.svg/2560px-TVR3_logo_2019.svg.png" group-title="Romania ",TVR 3 FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/31413.m3u8
+#EXTINF:-1 tvg-id="tvrinternational.ro" tvg-name="TVR International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/TVR_i_2022_logo.png" group-title="Romania ",TVR International
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9061.m3u8
+#EXTINF:-1 tvg-id="protvinternational.ro" tvg-name="ProTV International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Pro_TV_Interna%C8%9Bional_%282017%29.svg/1200px-Logo_Pro_TV_Interna%C8%9Bional_%282017%29.svg.png" group-title="Romania ",ProTV International
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9049.m3u8
+#EXTINF:-1 tvg-id="antena3.ro" tvg-name="Antena 3 HD" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/Antena-3-Romania-Live-TV-Online.png" group-title="Romania ",Antena 3 HD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9053.m3u8
+#EXTINF:-1 tvg-id="antena3.ro" tvg-name="Antena 3 FHD" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/Antena-3-Romania-Live-TV-Online.png" group-title="Romania ",Antena 3 FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/8973.m3u8
+#EXTINF:-1 tvg-id="antena3.ro" tvg-name="Antena 3 4K" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/Antena-3-Romania-Live-TV-Online.png" group-title="Romania ",Antena 3 4K
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/31848.m3u8
+#EXTINF:-1 tvg-id="antena3.ro" tvg-name="Antena 3 HDR (Net Bun)" tvg-logo="https://treambura.com/reseller/resize.php?max=32&url=https://directostv.teleame.com/wp-content/uploads/2020/04/Antena-3-Romania-Live-TV-Online.png" group-title="Romania ",Antena 3 HDR (Net Bun)
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70491.m3u8
+#EXTINF:-1 tvg-id="antenastars.ro" tvg-name="Antena Stars HD" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDc4XzE1NTM0Nzhf/U3RhcnNfSEQucG5nJmhhc2g9Yzk2MDFj/NjdjYjMzYjA5NzdjZjY4NTI4ZWUwZTgwMGE=.png" group-title="Romania ",Antena Stars HD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9052.m3u8
+#EXTINF:-1 tvg-id="antenastars.ro" tvg-name="Antena Stars FHD" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDc4XzE1NTM0Nzhf/U3RhcnNfSEQucG5nJmhhc2g9Yzk2MDFj/NjdjYjMzYjA5NzdjZjY4NTI4ZWUwZTgwMGE=.png" group-title="Romania ",Antena Stars FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/8972.m3u8
+#EXTINF:-1 tvg-id="antenastars.ro" tvg-name="Antena Stars HDR (Net Bun)" tvg-logo="https://treambura.com/reseller/resize.php?max=32&url=https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDc4XzE1NTM0Nzhf/U3RhcnNfSEQucG5nJmhhc2g9Yzk2MDFj/NjdjYjMzYjA5NzdjZjY4NTI4ZWUwZTgwMGE=.png" group-title="Romania ",Antena Stars HDR (Net Bun)
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70492.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CaTine Ro" tvg-logo="https://assets.antenaplay.ro/2023/04/13/IQm8t1SC6coOhFYkNnxs.png" group-title="Romania ",CaTine Ro
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/54244.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Antena Comedy Play" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Logo_Antena_1_%282010%29.svg/867px-Logo_Antena_1_%282010%29.svg.png" group-title="Romania ",Antena Comedy Play
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/54245.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Antena Monden" tvg-logo="https://assets.antenaplay.ro/2023/04/13/MrwirFrMppGIcWVNzlGK.png" group-title="Romania ",Antena Monden
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/54246.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="⚡⚡⚡ CANALE STIRI ⚡⚡⚡" tvg-logo="" group-title="Romania ",⚡⚡⚡ CANALE STIRI ⚡⚡⚡
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9194.m3u8
+#EXTINF:-1 tvg-id="digi24.ro" tvg-name="Digi 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Logo_Digi_24_%282012%29.svg/1024px-Logo_Digi_24_%282012%29.svg.png" group-title="Romania ",Digi 24
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9130.m3u8
+#EXTINF:-1 tvg-id="Digi24.ro" tvg-name="Digi 24 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Logo_Digi_24_%282012%29.svg/1024px-Logo_Digi_24_%282012%29.svg.png" group-title="Romania ",Digi 24 HD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/8980.m3u8
+#EXTINF:-1 tvg-id="digi24.ro" tvg-name="Digi 24 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Logo_Digi_24_%282012%29.svg/1024px-Logo_Digi_24_%282012%29.svg.png" group-title="Romania ",Digi 24 FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/10872.m3u8
+#EXTINF:-1 tvg-id="digi24.ro" tvg-name="Digi 24 HDR (Net Bun)" tvg-logo="https://treambura.com/reseller/resize.php?max=32&url=https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Logo_Digi_24_%282012%29.svg/1024px-Logo_Digi_24_%282012%29.svg.png" group-title="Romania ",Digi 24 HDR (Net Bun)
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70450.m3u8
+#EXTINF:-1 tvg-id="realitateaplus.ro" tvg-name="Realitatea Plus" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDY0XzE1NTM0NjRf/UmVhbGl0YXRlYV9QbHVzLnBuZyZoYXNo/PTViZGM3MWY3ZWM1NDhhMmNkNTIxOGRhOWRjZTdmNDE2.png" group-title="Romania ",Realitatea Plus
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9132.m3u8
+#EXTINF:-1 tvg-id="realitateaplus.ro" tvg-name="Realitatea Plus HD" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNjYwXzE1NTM2NjBf/UmVhbGl0YXRlYV9QbHVzX0hELnBuZyZo/YXNoPTZhMzJhYzFjZDk0MjlhZjdiOTgzNTBmMzIwZDllMzc4.png" group-title="Romania ",Realitatea Plus HD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/37911.m3u8
+#EXTINF:-1 tvg-id="realitateaplus.ro" tvg-name="RomaniaTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Romania_TV_2013.svg/2560px-Romania_TV_2013.svg.png" group-title="Romania ",RomaniaTV
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9131.m3u8
+#EXTINF:-1 tvg-id="romaniatv.ro" tvg-name="Romania Tv FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Romania_TV_2013.svg/2560px-Romania_TV_2013.svg.png" group-title="Romania ",Romania Tv FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/54243.m3u8
+#EXTINF:-1 tvg-id="b1.ro" tvg-name="B1 TV" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzMwXzE1NTMzMzBf/Ql8xX1RWX0hELnBuZyZoYXNoPTMxMjZm/ZDk5ODY1ZDVmZjUwNGQ3MjgzMWZjY2JmOTRi.png" group-title="Romania ",B1 TV
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/37903.m3u8
+#EXTINF:-1 tvg-id="b1.ro" tvg-name="B1 TV HD" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzMwXzE1NTMzMzBf/Ql8xX1RWX0hELnBuZyZoYXNoPTMxMjZm/ZDk5ODY1ZDVmZjUwNGQ3MjgzMWZjY2JmOTRi.png" group-title="Romania ",B1 TV HD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9066.m3u8
+#EXTINF:-1 tvg-id="euronews.ro" tvg-name="Euronews RO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1200px-Euronews_2016_logo.svg.png" group-title="Romania ",Euronews RO
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/31410.m3u8
+#EXTINF:-1 tvg-id="euronews.ro" tvg-name="Euronews RO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1200px-Euronews_2016_logo.svg.png" group-title="Romania ",Euronews RO FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/32363.m3u8
+#EXTINF:-1 tvg-id="primanews.ro" tvg-name="Prima News FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Prima_News.svg/640px-Prima_News.svg.png" group-title="Romania ",Prima News FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/50130.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Global News Ro" tvg-logo="" group-title="Romania ",Global News Ro
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/53521.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ProTv News FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_Pro_TV_%282017%29.svg/1024px-Logo_Pro_TV_%282017%29.svg.png" group-title="Romania ",ProTv News FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/28109.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AlephNews SmartTv" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNjUzXzE1NTM2NTNf/QWxlcGhfTmV3c19IRC5wbmcmaGFzaD0z/ZmEzNzlhZGMyZGM5ZTljMTFkMWM5Zjk3ZDYwOTU3Yw==.png" group-title="Romania ",AlephNews SmartTv
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/30277.m3u8
+#EXTINF:-1 tvg-id="alephnews.ro" tvg-name="Aleph News" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNjUzXzE1NTM2NTNf/QWxlcGhfTmV3c19IRC5wbmcmaGFzaD0z/ZmEzNzlhZGMyZGM5ZTljMTFkMWM5Zjk3ZDYwOTU3Yw==.png" group-title="Romania ",Aleph News
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/31381.m3u8
+#EXTINF:-1 tvg-id="alephnews.ro" tvg-name="Aleph News FHD" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNjUzXzE1NTM2NTNf/QWxlcGhfTmV3c19IRC5wbmcmaGFzaD0z/ZmEzNzlhZGMyZGM5ZTljMTFkMWM5Zjk3ZDYwOTU3Yw==.png" group-title="Romania ",Aleph News FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/19324.m3u8
+#EXTINF:-1 tvg-id="alephbusiness.ro" tvg-name="Aleph Business" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNjUzXzE1NTM2NTNf/QWxlcGhfTmV3c19IRC5wbmcmaGFzaD0z/ZmEzNzlhZGMyZGM5ZTljMTFkMWM5Zjk3ZDYwOTU3Yw==.png" group-title="Romania ",Aleph Business
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/31379.m3u8
+#EXTINF:-1 tvg-id="alephbusiness.ro" tvg-name="Aleph Business FHD" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNjUzXzE1NTM2NTNf/QWxlcGhfTmV3c19IRC5wbmcmaGFzaD0z/ZmEzNzlhZGMyZGM5ZTljMTFkMWM5Zjk3ZDYwOTU3Yw==.png" group-title="Romania ",Aleph Business FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/31380.m3u8
+#EXTINF:-1 tvg-id="nationaltv.ro" tvg-name="National TV" tvg-logo="https://i.pinimg.com/originals/b5/18/cd/b518cd79acdb7aabd317fd849a23b471.png" group-title="Romania ",National TV
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9065.m3u8
+#EXTINF:-1 tvg-id="national24plus.ro" tvg-name="National 24+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Na%C8%9Bional_24_Plus.png" group-title="Romania ",National 24+
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/13585.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Privesc EU " tvg-logo="https://www.privesc.eu/Content/images/logo.png" group-title="Romania ",Privesc EU 
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/31403.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Realitatea Star HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Realitatea_TV_Logo_%282007-2019%29.svg/1818px-Realitatea_TV_Logo_%282007-2019%29.svg.png" group-title="Romania ",Realitatea Star HD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/31019.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Realitatea Sportiva" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/5/59/Logo_Realitatea_TV_%282007%29.png" group-title="Romania ",Realitatea Sportiva
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/30450.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LinkPress Tv" tvg-logo="" group-title="Romania ",LinkPress Tv
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/30429.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RO Media Valencia" tvg-logo="https://romediavalencia.com/wp-content/uploads/2023/08/Logo_TV_Valencia-1-300x170.png" group-title="Romania ",RO Media Valencia
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/37899.m3u8
+#EXTINF:-1 tvg-id="primanews.ro" tvg-name="PrimaNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Prima_News.svg/640px-Prima_News.svg.png" group-title="Romania ",PrimaNews
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/37908.m3u8
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="Metropola Tv" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNjU3XzE1NTM2NTdf/TWV0cm9wb2xhX1RWX0hELnBuZyZoYXNo/PTg4MTJlNzMzY2M4NWNiNjliZDY0YzJkOGQ5MTBkOTVk.png" group-title="Romania ",Metropola Tv
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/26657.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="⚡⚡⚡ CANALE SPORT ⚡⚡⚡" tvg-logo="" group-title="Romania ",⚡⚡⚡ CANALE SPORT ⚡⚡⚡
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9195.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVR Sport FHD" tvg-logo="" group-title="Romania ",TVR Sport FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/59935.m3u8
+#EXTINF:-1 tvg-id="digisport1.ro" tvg-name="Digi Sport 1 4K" tvg-logo="https://static.epgguide.net/icon/digisport1.ro.png" group-title="Romania ",Digi Sport 1 4K
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/82437.m3u8
+#EXTINF:-1 tvg-id="digisport1.ro" tvg-name="Digi Sport 1 HD" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzY0XzE1NTMzNjRf/RGlnaV9TcG9ydF8xLnBuZyZoYXNoPTU5/ZTYyZjAxYTUyZDYzZDFiNjU3ZDMzOWZmNTM4MDY0.png" group-title="Romania ",Digi Sport 1 HD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/82433.m3u8
+#EXTINF:-1 tvg-id="digisport1.ro" tvg-name="Digi Sport 1 FHD" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzY1XzE1NTMzNjVf/RGlnaV9TcG9ydF8xX0hELnBuZyZoYXNo/PTg4NjUwNzA4ZDA3YmJjMjhiYjEyYjU0MTUxZmI0M2Fj.png" group-title="Romania ",Digi Sport 1 FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/82429.m3u8
+#EXTINF:-1 tvg-id="digisport1.ro" tvg-name="Digi Sport 1 HDR (Net Bun)" tvg-logo="https://treambura.com/reseller/resize.php?max=32&url=https://static.epgguide.net/icon/digisport1.ro.png" group-title="Romania ",Digi Sport 1 HDR (Net Bun)
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/82438.m3u8
+#EXTINF:-1 tvg-id="digisport2.ro" tvg-name="Digi Sport 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/thumb/3/34/Digi_Sport_logo.svg/800px-Digi_Sport_logo.svg.png" group-title="Romania ",Digi Sport 2 HD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/82434.m3u8
+#EXTINF:-1 tvg-id="digisport2.ro" tvg-name="Digi Sport 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/thumb/3/34/Digi_Sport_logo.svg/800px-Digi_Sport_logo.svg.png" group-title="Romania ",Digi Sport 2 FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/82430.m3u8
+#EXTINF:-1 tvg-id="digisport2.ro" tvg-name="Digi Sport 2 HDR (Net Bun)" tvg-logo="https://treambura.com/reseller/resize.php?max=32&url=https://upload.wikimedia.org/wikipedia/ro/thumb/3/34/Digi_Sport_logo.svg/800px-Digi_Sport_logo.svg.png" group-title="Romania ",Digi Sport 2 HDR (Net Bun)
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/82439.m3u8
+#EXTINF:-1 tvg-id="digisport3.ro" tvg-name="Digi Sport 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Digi_sport3_hu.png/1200px-Digi_sport3_hu.png" group-title="Romania ",Digi Sport 3 HD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/82435.m3u8
+#EXTINF:-1 tvg-id="digisport3.ro" tvg-name="Digi Sport 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Digi_sport3_hu.png/1200px-Digi_sport3_hu.png" group-title="Romania ",Digi Sport 3 FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/82431.m3u8
+#EXTINF:-1 tvg-id="digisport3.ro" tvg-name="Digi Sport 3 HDR (Net Bun)" tvg-logo="https://treambura.com/reseller/resize.php?max=32&url=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Digi_sport3_hu.png/1200px-Digi_sport3_hu.png" group-title="Romania ",Digi Sport 3 HDR (Net Bun)
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/82440.m3u8
+#EXTINF:-1 tvg-id="digisport4.ro" tvg-name="Digi Sport 4 HD" tvg-logo="https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RmRvLXN0YXRpYy0wMy1jZG4ucmNzLXJk/cy5ybyUyRmRpZ2lvbmxpbmUlMkZtb2Jp/bGUtY29udGVudCUyRnYxMiUyRmltYWdl/cyUyRnNpdGUlMkZsb2dvX3R2X2NoYW5u/ZWxfc3BvcnRfZGlnaXNwb3J0NC5wbmcm/aGFzaD0yYTIyYmFmZTU5ZDhhOTA0YmI2NTdjMGNiMDVkYTk3NQ==.png" group-title="Romania ",Digi Sport 4 HD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/82436.m3u8
+#EXTINF:-1 tvg-id="digisport4.ro" tvg-name="Digi Sport 4 FHD" tvg-logo="https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RmRvLXN0YXRpYy0wMy1jZG4ucmNzLXJk/cy5ybyUyRmRpZ2lvbmxpbmUlMkZtb2Jp/bGUtY29udGVudCUyRnYxMiUyRmltYWdl/cyUyRnNpdGUlMkZsb2dvX3R2X2NoYW5u/ZWxfc3BvcnRfZGlnaXNwb3J0NC5wbmcm/aGFzaD0yYTIyYmFmZTU5ZDhhOTA0YmI2NTdjMGNiMDVkYTk3NQ==.png" group-title="Romania ",Digi Sport 4 FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/82432.m3u8
+#EXTINF:-1 tvg-id="digisport4.ro" tvg-name="Digi Sport 4 HDR (Net Bun)" tvg-logo="https://treambura.com/reseller/resize.php?max=32&url=https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RmRvLXN0YXRpYy0wMy1jZG4ucmNzLXJk/cy5ybyUyRmRpZ2lvbmxpbmUlMkZtb2Jp/bGUtY29udGVudCUyRnYxMiUyRmltYWdl/cyUyRnNpdGUlMkZsb2dvX3R2X2NoYW5u/ZWxfc3BvcnRfZGlnaXNwb3J0NC5wbmcm/aGFzaD0yYTIyYmFmZTU5ZDhhOTA0YmI2NTdjMGNiMDVkYTk3NQ==.png" group-title="Romania ",Digi Sport 4 HDR (Net Bun)
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/82441.m3u8
+#EXTINF:-1 tvg-id="eurosport4k.ro" tvg-name="Eurosport 4K" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIxJTJGMDMl/MkYxMCUyRjEyOTg3NjlfMTI5ODc2OV9F/VVJPU1BPUlQtNEsucG5nJmhhc2g9YjM3/MTQzMzdmNTIyMDcwNTc5MGMyMGMwZDU1NjZlODg=.png" group-title="Romania ",Eurosport 4K
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/17995.m3u8
+#EXTINF:-1 tvg-id="eurosport1.ro" tvg-name="EuroSport1 Romania FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png" group-title="Romania ",EuroSport1 Romania FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70382.m3u8
+#EXTINF:-1 tvg-id="eurosport1.ro" tvg-name="EuroSport 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1280px-Eurosport_1_Logo_2015.svg.png" group-title="Romania ",EuroSport 1 HD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70387.m3u8
+#EXTINF:-1 tvg-id="eurosport1.ro" tvg-name="EuroSport 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1280px-Eurosport_1_Logo_2015.svg.png" group-title="Romania ",EuroSport 1 FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70385.m3u8
+#EXTINF:-1 tvg-id="eurosport2.ro" tvg-name="EuroSport 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png" group-title="Romania ",EuroSport 2 HD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70384.m3u8
+#EXTINF:-1 tvg-id="eurosport2.ro" tvg-name="EuroSport 2 FHD" tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/11/Eurosport-2-HD.png" group-title="Romania ",EuroSport 2 FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70388.m3u8
+#EXTINF:-1 tvg-id="prima4k.ro" tvg-name="Prima 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Prima_TV_%25_282021%25_29.png" group-title="Romania ",Prima 4K
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/19319.m3u8
+#EXTINF:-1 tvg-id="primasport1.ro" tvg-name="Prima Sport 1 HD" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDQ4XzE1NTM0NDhf/UHJpbWFfU3BvcnRfbmV3LnBuZyZoYXNo/PWU4MTQwMjY1NjkyNWRkODZjNjZhNGMzOTA3ODgzNDQ4.png" group-title="Romania ",Prima Sport 1 HD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9106.m3u8
+#EXTINF:-1 tvg-id="primasport1.ro" tvg-name="Prima Sport 1 FHD" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNjU4XzE1NTM2NThf/UHJpbWFfU3BvcnRfMV9IRC5wbmcmaGFz/aD0zMDNhMDcwZTcwZDRlOWY3MDA1OTY4ZDM3YjA4YjZmYQ==.png" group-title="Romania ",Prima Sport 1 FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/31399.m3u8
+#EXTINF:-1 tvg-id="primasport1.ro" tvg-name="Prima Sport 1 HDR (Net Bun)" tvg-logo="https://treambura.com/reseller/resize.php?max=32&url=https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Prima_sport.png/640px-Prima_sport.png" group-title="Romania ",Prima Sport 1 HDR (Net Bun)
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70495.m3u8
+#EXTINF:-1 tvg-id="primasport2.ro" tvg-name="Prima Sport 2 HD" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjEw/JTJGMTAlMkYxNTk4NzA2XzE1OTg3MDZf/UHJpbWEtU3BvcnQtMi1zaS1QcmltYS1T/cG9ydC0yLUhELnBuZyZoYXNoPWU5Zjdm/MDFjNWE1ZmI4ODE0MDJhMmYxM2EwYzhkZjA4.png" group-title="Romania ",Prima Sport 2 HD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9105.m3u8
+#EXTINF:-1 tvg-id="primasport2.ro" tvg-name="Prima Sport 2 FHD" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjEw/JTJGMTAlMkYxNTk4NzE5XzE1OTg3MTlf/UHJpbWEtU3BvcnQtMi1zaS1QcmltYS1T/cG9ydC0yLUhEXzEucG5nJmhhc2g9NDBi/MDJiZTdiODJlN2U2NzI4ZWM5ZTUzMTc3MWMwZjA=.png" group-title="Romania ",Prima Sport 2 FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9003.m3u8
+#EXTINF:-1 tvg-id="primasport2.ro" tvg-name="Prima Sport 2 HDR (Net Bun)" tvg-logo="https://treambura.com/reseller/resize.php?max=32&url=https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Prima_sport.png/640px-Prima_sport.png" group-title="Romania ",Prima Sport 2 HDR (Net Bun)
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70496.m3u8
+#EXTINF:-1 tvg-id="primasport3.ro" tvg-name="Prima Sport 3 HD" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjEw/JTJGMTAlMkYxNTk4NzA3XzE1OTg3MDdf/UHJpbWEtU3BvcnQtMy0xLnBuZyZoYXNo/PTM3ZTZhODY3YjA5YzliYjdmNzM1YTVlZmYwM2E5YTc3.png" group-title="Romania ",Prima Sport 3 HD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/30431.m3u8
+#EXTINF:-1 tvg-id="primasport3.ro" tvg-name="Prima Sport 3 FHD" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNjU5XzE1NTM2NTlf/UHJpbWFfU3BvcnRfM19IRC5wbmcmaGFz/aD1kMTczNDcwNjljMjQ1ZWYyN2Q0MjM2MWVmZjlmNmNhYQ==.png" group-title="Romania ",Prima Sport 3 FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9005.m3u8
+#EXTINF:-1 tvg-id="primasport3.ro" tvg-name="Prima Sport 3 HDR  (Net Bun)" tvg-logo="https://treambura.com/reseller/resize.php?max=32&url=https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Prima_sport.png/640px-Prima_sport.png" group-title="Romania ",Prima Sport 3 HDR  (Net Bun)
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70497.m3u8
+#EXTINF:-1 tvg-id="primasport4.ro" tvg-name="Prima Sport 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Prima_sport.png/640px-Prima_sport.png" group-title="Romania ",Prima Sport 4 HD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/30430.m3u8
+#EXTINF:-1 tvg-id="primasport4.ro" tvg-name="Prima Sport 4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Prima_sport.png/640px-Prima_sport.png" group-title="Romania ",Prima Sport 4 FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9004.m3u8
+#EXTINF:-1 tvg-id="primasport4.ro" tvg-name="Prima Sport 4 HDR (Net Bun)" tvg-logo="https://treambura.com/reseller/resize.php?max=32&url=https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Prima_sport.png/640px-Prima_sport.png" group-title="Romania ",Prima Sport 4 HDR (Net Bun)
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70498.m3u8
+#EXTINF:-1 tvg-id="primasport5.ro" tvg-name="Prima Sport 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Prima_sport.png/640px-Prima_sport.png" group-title="Romania ",Prima Sport 5 HD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/37928.m3u8
+#EXTINF:-1 tvg-id="primasport5.ro" tvg-name="Prima Sport 5 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Prima_sport.png/640px-Prima_sport.png" group-title="Romania ",Prima Sport 5 FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/37842.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Prima Sport 5 HDR  (Net Bun)" tvg-logo="https://treambura.com/reseller/resize.php?max=32&url=https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Prima_sport.png/640px-Prima_sport.png" group-title="Romania ",Prima Sport 5 HDR  (Net Bun)
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70499.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VOYO SPORT ( DOAR MECI LIVE)" tvg-logo="" group-title="Romania ",VOYO SPORT ( DOAR MECI LIVE)
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/101462.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VOYO SPORT 2 ( DOAR MECI LIVE)" tvg-logo="" group-title="Romania ",VOYO SPORT 2 ( DOAR MECI LIVE)
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/101463.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VOYO SPORT 3 ( DOAR MECI LIVE)" tvg-logo="" group-title="Romania ",VOYO SPORT 3 ( DOAR MECI LIVE)
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/101464.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VOYO SPORT 4 (DOAR MECI LIVE)" tvg-logo="" group-title="Romania ",VOYO SPORT 4 (DOAR MECI LIVE)
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/101465.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VOYO SPORT 5 (DOAR MECI LIVE)" tvg-logo="" group-title="Romania ",VOYO SPORT 5 (DOAR MECI LIVE)
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/101466.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="⭐⭐⭐Meci Voyo ⭐⭐⭐" tvg-logo="https://play-lh.googleusercontent.com/UYFq6jz4S5bWlZRJKnnkfVFRCjPAu4CZP3Wmulwk_68GUJF0c9LTSzNi_F1vMLi8Rg=w240-h480-rw" group-title="Romania ",⭐⭐⭐Meci Voyo ⭐⭐⭐
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/101440.m3u8
+#EXTINF:-1 tvg-id="sportextra.ro" tvg-name="Sport Extra FHD" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDc1XzE1NTM0NzVf/U3BvcnRfRXh0cmFfSEQucG5nJmhhc2g9/NWNmYjJjMTM5ZTBjMzk4YjQ5NTcyODczNDk2OTlhMjg=.png" group-title="Romania ",Sport Extra FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/29052.m3u8
+#EXTINF:-1 tvg-id="proarena.ro" tvg-name="Pro Arena" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Pro_Arena.png" group-title="Romania ",Pro Arena
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9104.m3u8
+#EXTINF:-1 tvg-id="proarena.ro" tvg-name="Pro Arena FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Pro_Arena.png" group-title="Romania ",Pro Arena FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9006.m3u8
+#EXTINF:-1 tvg-id="TraceSportStars.fr" tvg-name="Trace Sports Star HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TraceSSLogo.png/1200px-TraceSSLogo.png" group-title="Romania ",Trace Sports Star HD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/30384.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Motor Vision" tvg-logo="" group-title="Romania ",Motor Vision
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/58768.m3u8
+#EXTINF:-1 tvg-id="fightbox.ro" tvg-name="FightBox" tvg-logo="https://i.ibb.co/dbdCsBZ/menu-fb-roll.png" group-title="Romania ",FightBox
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9109.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="⚡⚡⚡ CANALE FILME GENERALE ⚡⚡⚡" tvg-logo="" group-title="Romania ",⚡⚡⚡ CANALE FILME GENERALE ⚡⚡⚡
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9199.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Film Mania FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Filmmania-tp.png" group-title="Romania ",Film Mania FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70445.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SkyShowtime 1 FHD" tvg-logo="https://www.movistar.es/blog/wp-content/uploads/sites/3/2024/01/SkyShowtime-canal.png" group-title="Romania ",SkyShowtime 1 FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70412.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SkyShowtime 2 FHD" tvg-logo="https://images.ctfassets.net/lqy9luz7fyfj/3V4783l8A38UGPGn8yqsJ3/dd900001efcfa5c5250667f13879428e/skyshowtime-2.png" group-title="Romania ",SkyShowtime 2 FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70413.m3u8
+#EXTINF:-1 tvg-id="hbo.ro" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/422px-HBO_logo.svg.png" group-title="Romania ",HBO
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9067.m3u8
+#EXTINF:-1 tvg-id="HBO.ro" tvg-name="HBO FHD" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIxJTJGMDMl/MkYxMCUyRjEyOTg3ODRfMTI5ODc4NF9I/Qk8tSEQucG5nJmhhc2g9MzU5N2Y0MGZkOTdmOTFmMTdmZjVkN2FkZjQzMmYzMDk=.png" group-title="Romania ",HBO FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/8983.m3u8
+#EXTINF:-1 tvg-id="hbo2.ro" tvg-name="HBO 2" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIxJTJGMDMl/MkYxMCUyRjEyOTg3ODFfMTI5ODc4MV9I/Qk8tMi5wbmcmaGFzaD1kMmY5MGU5MTc2MjY5MDliZmY4NjA2MWU4MTE4MGM5OQ==.png" group-title="Romania ",HBO 2
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9068.m3u8
+#EXTINF:-1 tvg-id="HBO2.ro" tvg-name="HBO 2 FHD" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIxJTJGMDMl/MkYxMCUyRjEyOTg3ODBfMTI5ODc4MF9I/Qk8tMi1IRC5wbmcmaGFzaD04ODI1MDAy/N2MwYWQ1YzlmODQ4MGVkZDQ2MTJmMDhiYQ==.png" group-title="Romania ",HBO 2 FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/8984.m3u8
+#EXTINF:-1 tvg-id="hbo3.ro" tvg-name="HBO 3" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIxJTJGMDMl/MkYxMCUyRjEyOTg3ODNfMTI5ODc4M19I/Qk8tMy5wbmcmaGFzaD00NDgyYjA1MWViNTdmNDg0NTM2ZjQ1MjcxMjI0NGYyMQ==.png" group-title="Romania ",HBO 3
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9069.m3u8
+#EXTINF:-1 tvg-id="HBO3.ro" tvg-name="HBO 3 FHD" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIxJTJGMDMl/MkYxMCUyRjEyOTg3ODJfMTI5ODc4Ml9I/Qk8tMy1IRC5wbmcmaGFzaD1kNDI3MzVk/MjgxZDcwMjM1MWJlZWYxYzY3ODczMWI1NQ==.png" group-title="Romania ",HBO 3 FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/8985.m3u8
+#EXTINF:-1 tvg-id="cinemax.ro" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" group-title="Romania ",Cinemax
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9088.m3u8
+#EXTINF:-1 tvg-id="cinemax.ro" tvg-name="Cinemax FHD" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIxJTJGMDMl/MkYxMCUyRjEyOTg3MjlfMTI5ODcyOV9D/SU5FTUFYLUhELnBuZyZoYXNoPThlMTc0/ZjQ3MWViZmVkZjA3ODk0OTAzNzMwMWI3OGI1.png" group-title="Romania ",Cinemax FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/8988.m3u8
+#EXTINF:-1 tvg-id="cinemax2.ro" tvg-name="Cinemax 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Cinemax_2_%282016%29.png" group-title="Romania ",Cinemax 2
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9089.m3u8
+#EXTINF:-1 tvg-id="cinemax2.ro" tvg-name="Cinemax 2 FHD" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIxJTJGMDcl/MkYyOSUyRjEzNjI0MTdfMTM2MjQxN19D/SU5FTUFYLTItSEQucG5nJmhhc2g9ODYw/YTQ4N2E0NWYyOGU1ZGQ0Mzc5NTc5NDgwMWM2NzQ=.png" group-title="Romania ",Cinemax 2 FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/31388.m3u8
+#EXTINF:-1 tvg-id="amc.ro" tvg-name="AMC" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzE2XzE1NTMzMTZf/YW1jX0hELnBuZyZoYXNoPWU1N2M4OTYyNzQ0Y2U2ZmEwNDM3MTJiZTUyZGI4Zjkx.png" group-title="Romania ",AMC
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9077.m3u8
+#EXTINF:-1 tvg-id="amc.ro" tvg-name="AMC FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" group-title="Romania ",AMC FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/31382.m3u8
+#EXTINF:-1 tvg-id="axn.ro" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png" group-title="Romania ",AXN
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9080.m3u8
+#EXTINF:-1 tvg-id="AXN.ro" tvg-name="AXN FHD" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzI2XzE1NTMzMjZf/QVhOX0hELnBuZyZoYXNoPTU1NWRkMjk3MDc5ZWQ3ZjNkZDAwMDY5ZmRjODYyOWFk.png" group-title="Romania ",AXN FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/8981.m3u8
+#EXTINF:-1 tvg-id="axnwhite.ro" tvg-name="AXN White" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1200px-AXN_White_logo_%282015%29.svg.png" group-title="Romania ",AXN White
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9081.m3u8
+#EXTINF:-1 tvg-id="axnblack.ro" tvg-name="AXN Black" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/AXN_Black_Logo.png" group-title="Romania ",AXN Black
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9082.m3u8
+#EXTINF:-1 tvg-id="axnspin.ro" tvg-name="AXN Spin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/AXN_SPIN.png" group-title="Romania ",AXN Spin
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9083.m3u8
+#EXTINF:-1 tvg-id="filmnow.ro" tvg-name="Film Now" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Logo_Film_Now_%282018%29.png" group-title="Romania ",Film Now
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9070.m3u8
+#EXTINF:-1 tvg-id="FilmNow.ro" tvg-name="Film Now FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Logo_Film_Now_%282018%29.png" group-title="Romania ",Film Now FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/8982.m3u8
+#EXTINF:-1 tvg-id="filmcafe.ro" tvg-name="Film Cafe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Film_cafe_hu.png" group-title="Romania ",Film Cafe
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9075.m3u8
+#EXTINF:-1 tvg-id="filmcafe.ro" tvg-name="Film Cafe FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Film_cafe_hu.png" group-title="Romania ",Film Cafe FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/31396.m3u8
+#EXTINF:-1 tvg-id="filmbox.ro" tvg-name="FilmBox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Filmbox_pl.png/1200px-Filmbox_pl.png" group-title="Romania ",FilmBox
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9090.m3u8
+#EXTINF:-1 tvg-id="filmboxfamily.ro" tvg-name="FilmBox Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Filmbox_family.png/1024px-Filmbox_family.png" group-title="Romania ",FilmBox Family
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9091.m3u8
+#EXTINF:-1 tvg-id="filmboxstars.ro" tvg-name="Filmbox Stars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Filmbox_pl.png/1200px-Filmbox_pl.png" group-title="Romania ",Filmbox Stars
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/31397.m3u8
+#EXTINF:-1 tvg-id="filmbox.ro" tvg-name="FilmBox Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/FilmBox_Premium_HD_logo.png/1024px-FilmBox_Premium_HD_logo.png" group-title="Romania ",FilmBox Premium
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9093.m3u8
+#EXTINF:-1 tvg-id="filmboxextra.ro" tvg-name="FilmBox Extra HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/FilmBox_Extra_HD.png" group-title="Romania ",FilmBox Extra HD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/8986.m3u8
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="BollywoodTV" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzM1XzE1NTMzMzVf/Qm9sbHl3b29kLnBuZyZoYXNoPWU0YWY3/NjQwN2EwMzU0OTlmZDczYjhhMzk3MmY1NDVm.png" group-title="Romania ",BollywoodTV
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9084.m3u8
+#EXTINF:-1 tvg-id="bollywoodtvfilm.ro" tvg-name="Bollyood Film" tvg-logo="https://treambura.com/reseller/resize.php?max=32&url=https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzM1XzE1NTMzMzVf/Qm9sbHl3b29kLnBuZyZoYXNoPWU0YWY3/NjQwN2EwMzU0OTlmZDczYjhhMzk3MmY1NDVm.png" group-title="Romania ",Bollyood Film
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/54111.m3u8
+#EXTINF:-1 tvg-id="bollywoodtv.ro" tvg-name="BollyoodTv FHD" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzM2XzE1NTMzMzZf/Qm9sbHl3b29kX0hELnBuZyZoYXNoPTIz/ODU4ODUzYmYzNmZjYzNkN2E5Zjg1OGY5MDJkNTlk.png" group-title="Romania ",BollyoodTv FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/31383.m3u8
+#EXTINF:-1 tvg-id="bollywoodclasic.ro" tvg-name="Bollyood Classic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/MBC_Bollywood_TV_Channel_Logo.png" group-title="Romania ",Bollyood Classic
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/31384.m3u8
+#EXTINF:-1 tvg-id="comedycentral.ro" tvg-name="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="Romania ",Comedy Central
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9087.m3u8
+#EXTINF:-1 tvg-id="comedycentral.ro" tvg-name="Comedy Central FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="Romania ",Comedy Central FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/31389.m3u8
+#EXTINF:-1 tvg-id="epicdrama.ro" tvg-name="Epic Drama" tvg-logo="https://www.epicdrama.eu/android-icon-192x192.png" group-title="Romania ",Epic Drama
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/30424.m3u8
+#EXTINF:-1 tvg-id="epicdrama.ro" tvg-name="Epic Drama FHD" tvg-logo="https://www.epicdrama.eu/android-icon-192x192.png" group-title="Romania ",Epic Drama FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/8987.m3u8
+#EXTINF:-1 tvg-id="acasa.ro" tvg-name="Acasa TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Acasa_2022_flat.png/800px-Acasa_2022_flat.png" group-title="Romania ",Acasa TV
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9074.m3u8
+#EXTINF:-1 tvg-id="acasa.ro" tvg-name="Acasa Tv FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Acasa_2022_flat.png/800px-Acasa_2022_flat.png" group-title="Romania ",Acasa Tv FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/8976.m3u8
+#EXTINF:-1 tvg-id="acasagold.ro" tvg-name="Acasa Gold" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Acasa_Gold_2022.png" group-title="Romania ",Acasa Gold
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9072.m3u8
+#EXTINF:-1 tvg-id="acasagold.ro" tvg-name="Acasa Gold FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Acasa_Gold_2022.png" group-title="Romania ",Acasa Gold FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/31405.m3u8
+#EXTINF:-1 tvg-id="happychannel.ro" tvg-name="Happy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Happy_Channel_logo.png" group-title="Romania ",Happy
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9078.m3u8
+#EXTINF:-1 tvg-id="happychannel.ro" tvg-name="Happy FHD" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDAyXzE1NTM0MDJf/SGFwcHlfVFZfSEQucG5nJmhhc2g9OWFk/NTkyNjA1N2RlY2Q2Y2Q3MWE3ZTI4MjU2YmVmZjc=.png" group-title="Romania ",Happy FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/8989.m3u8
+#EXTINF:-1 tvg-id="procinema.ro" tvg-name="Pro Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Pro_Cinema_logo_2014.png" group-title="Romania ",Pro Cinema
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9071.m3u8
+#EXTINF:-1 tvg-id="procinema.ro" tvg-name="Pro Cinema FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Pro_Cinema_logo_2014.png/217px-Pro_Cinema_logo_2014.png" group-title="Romania ",Pro Cinema FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/31404.m3u8
+#EXTINF:-1 tvg-id="warnertv.ro" tvg-name="Warner Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/WarnerTV_2021.png" group-title="Romania ",Warner Tv
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/31415.m3u8
+#EXTINF:-1 tvg-id="warnertv.ro" tvg-name="Warner TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/WarnerTV_2021.png" group-title="Romania ",Warner TV HD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/37924.m3u8
+#EXTINF:-1 tvg-id="tv1000.ro" tvg-name="TV1000" tvg-logo="https://upload.wikimedia.org/wikipedia/fi/d/d6/Viasat_TV1000.png" group-title="Romania ",TV1000
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9073.m3u8
+#EXTINF:-1 tvg-id="tlc.ro" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png" group-title="Romania ",TLC
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9120.m3u8
+#EXTINF:-1 tvg-id="tlc.ro" tvg-name="TLC FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png" group-title="Romania ",TLC FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/37925.m3u8
+#EXTINF:-1 tvg-id="tdc.ro" tvg-name="TDC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TDC.svg/1200px-TDC.svg.png" group-title="Romania ",TDC
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9079.m3u8
+#EXTINF:-1 tvg-id="tdc.ro" tvg-name="TDC FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TDC.svg/1200px-TDC.svg.png" group-title="Romania ",TDC FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/8990.m3u8
+#EXTINF:-1 tvg-id="cinemaraton.ro" tvg-name="Cinemaraton" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzQzXzE1NTMzNDNf/Q2luZV9NYXJhdG9uLnBuZyZoYXNoPWM2/ZWNmZTRlODBkMzcwMTBiYjBjNTlmYWJjODIwZDI3.png" group-title="Romania ",Cinemaraton
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9094.m3u8
+#EXTINF:-1 tvg-id="cinemaraton.ro" tvg-name="Cinemaraton HD" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzQ0XzE1NTMzNDRf/Q2luZV9NYXJhdG9uX0hELnBuZyZoYXNo/PWZmMDMxM2JlY2RmZTZhZmJmYzllMjUyMGMwOWFiZjJl.png" group-title="Romania ",Cinemaraton HD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/31387.m3u8
+#EXTINF:-1 tvg-id="cinethronix.ro" tvg-name="Cinethronix" tvg-logo="https://static.wixstatic.com/media/44ce1a_ac56ce52c2dd489ea5a4a39e56f599ac~mv2.png/v1/fill/w_194,h_125,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/SIGLA%2520CINETHRONIX_edited.png" group-title="Romania ",Cinethronix
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9095.m3u8
+#EXTINF:-1 tvg-id="diva.ro" tvg-name="Diva Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Diva_Universal.svg/1200px-Diva_Universal.svg.png" group-title="Romania ",Diva Universal
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9086.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nostalgia Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/NostalgiaTV-logo.png/1200px-NostalgiaTV-logo.png" group-title="Romania ",Nostalgia Tv
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/74507.m3u8
+#EXTINF:-1 tvg-id="eentertainment.ro" tvg-name="E! Entertainment FHD" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzgyXzE1NTMzODJf/RV9IRC5wbmcmaGFzaD1mY2FkN2M1MjAyYmJlZDljZTVkNTJjZjRmOGUyODcwZg==.png" group-title="Romania ",E! Entertainment FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9016.m3u8
+#EXTINF:-1 tvg-id="eentertainment.ro" tvg-name="E! Enterteinment " tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzgxXzE1NTMzODFf/RS5wbmcmaGFzaD1lYjU5ZWE3ZTFkOWFlNDZiYjYxNzExMTRkNTM2ZDAxOA==.png" group-title="Romania ",E! Enterteinment 
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/30423.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="⚡⚡⚡ CANALE DOCUMENTARE ⚡⚡⚡" tvg-logo="" group-title="Romania ",⚡⚡⚡ CANALE DOCUMENTARE ⚡⚡⚡
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Prima Food & Travel FHD" tvg-logo="" group-title="Romania ",Prima Food & Travel FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70414.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Prima History" tvg-logo="" group-title="Romania ",Prima History
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/58648.m3u8
+#EXTINF:-1 tvg-id="discoverychannel.ro" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/800px-Discovery_Channel_-_Logo_2019.svg.png" group-title="Romania ",Discovery Channel
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/30421.m3u8
+#EXTINF:-1 tvg-id="discoverychannel.ro" tvg-name="Discovery Channel FHD" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzc1XzE1NTMzNzVf/RGlzY292ZXJ5X0hELnBuZyZoYXNoPTBi/YzZmMjUxNzE4YzJmZmMwNDk4ZDU4OTljNjM0NDcw.png" group-title="Romania ",Discovery Channel FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9007.m3u8
+#EXTINF:-1 tvg-id="investigationdiscovery.ro" tvg-name="Discovery Investigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="Romania ",Discovery Investigation
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9124.m3u8
+#EXTINF:-1 tvg-id="crimeinvestigation.ro" tvg-name="Discovery Investigation FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Investigation_Discovery_Logo_2020.png" group-title="Romania ",Discovery Investigation FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/31861.m3u8
+#EXTINF:-1 tvg-id="digianimalworld.ro" tvg-name="Digi Animal World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Digi_animal_world_ro.png" group-title="Romania ",Digi Animal World
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/13583.m3u8
+#EXTINF:-1 tvg-id="digianimalworld.ro" tvg-name="Digi Animal World FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Digi_animal_world_ro.png" group-title="Romania ",Digi Animal World FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/31390.m3u8
+#EXTINF:-1 tvg-id="digiworld.ro" tvg-name="Digi World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Digi_World_logo.svg/1200px-Digi_World_logo.svg.png" group-title="Romania ",Digi World
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9114.m3u8
+#EXTINF:-1 tvg-id="digiworld.ro" tvg-name="Digi World FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Digi_World_logo.svg/1200px-Digi_World_logo.svg.png" group-title="Romania ",Digi World FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/31392.m3u8
+#EXTINF:-1 tvg-id="AcasaGold.ro" tvg-name="Digi Life" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Digi_Life_logo.svg/1280px-Digi_Life_logo.svg.png" group-title="Romania ",Digi Life
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9113.m3u8
+#EXTINF:-1 tvg-id="digilife.ro" tvg-name="Digi Life FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Digi_Life_logo.svg/1200px-Digi_Life_logo.svg.png" group-title="Romania ",Digi Life FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/31391.m3u8
+#EXTINF:-1 tvg-id="AcasaGold.ro" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="Romania ",National Geographic
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9115.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicRomania.ro" tvg-name="National Geographic FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="Romania ",National Geographic FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9010.m3u8
+#EXTINF:-1 tvg-id="natgeowild.ro" tvg-name="National Geographic Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="Romania ",National Geographic Wild
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9116.m3u8
+#EXTINF:-1 tvg-id="natgeowild.ro" tvg-name="National Geographic Wild FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="Romania ",National Geographic Wild FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9011.m3u8
+#EXTINF:-1 tvg-id="natgeo.ro" tvg-name="National Geograpghic People" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/1200px-New_NatGeo_People_logo.svg.png" group-title="Romania ",National Geograpghic People
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/37932.m3u8
+#EXTINF:-1 tvg-id="animalplanet.ro" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="Romania ",Animal Planet
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9112.m3u8
+#EXTINF:-1 tvg-id="animalplanet.ro" tvg-name="Animal Planet FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="Romania ",Animal Planet FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9009.m3u8
+#EXTINF:-1 tvg-id="lovenature.ro" tvg-name="Love Nature" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Romania ",Love Nature
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/37933.m3u8
+#EXTINF:-1 tvg-id="lovenature.ro" tvg-name="Love Nature FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Romania ",Love Nature FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9008.m3u8
+#EXTINF:-1 tvg-id="viasatexplore.ro" tvg-name="Viasat Explorer" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNTAxXzE1NTM1MDFf/Vmlhc2F0X0V4cGxvcmUucG5nJmhhc2g9/MTU3MTEzNzFiOWM3OTM3NTY3Yjk4MDE3OWUxM2M3MDI=.png" group-title="Romania ",Viasat Explorer
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9117.m3u8
+#EXTINF:-1 tvg-id="viasatexplore.ro" tvg-name="Viasat Explorer FHD" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNTAyXzE1NTM1MDJf/Vmlhc2F0X0V4cGxvcmVfSEQucG5nJmhh/c2g9YTBmZjQ2YzdjZjlmYzgxMjZlMjM2YjhiZTIxNTViMmU=.png" group-title="Romania ",Viasat Explorer FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9012.m3u8
+#EXTINF:-1 tvg-id="viasatnature.ro" tvg-name="Viasat Nature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Viasat_Nature.png" group-title="Romania ",Viasat Nature
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9119.m3u8
+#EXTINF:-1 tvg-id="viasatnature.ro" tvg-name="Viasat Nature FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Viasat_Nature.png" group-title="Romania ",Viasat Nature FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9013.m3u8
+#EXTINF:-1 tvg-id="viasathistory.ro" tvg-name="Viasat History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Viasat_History-2014.png" group-title="Romania ",Viasat History
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9118.m3u8
+#EXTINF:-1 tvg-id="viasathistory.ro" tvg-name="Viasat History FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Viasat_History-2014.png" group-title="Romania ",Viasat History FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9014.m3u8
+#EXTINF:-1 tvg-id="historychannel.ro" tvg-name="History Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png" group-title="Romania ",History Channel
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/30426.m3u8
+#EXTINF:-1 tvg-id="historychannel.ro" tvg-name="History Channel FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/229px-History_Logo.svg.png" group-title="Romania ",History Channel FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9015.m3u8
+#EXTINF:-1 tvg-id="travelchannel.ro" tvg-name="Travel Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Travel_channel.png" group-title="Romania ",Travel Channel
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9129.m3u8
+#EXTINF:-1 tvg-id="travelchannel.ro" tvg-name="Travel Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Travel_Channel_HD_Logo.png/1200px-Travel_Channel_HD_Logo.png" group-title="Romania ",Travel Channel HD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/31409.m3u8
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="Fishing & Hunting" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDAwXzE1NTM0MDBf/RmlzaGluZ19hbmRfSHVudGluZ19DaGFu/bmVsLnBuZyZoYXNoPTZmYmE1YmQxZWRkMDJmYzkwMmQzMDRkMWI1M2QxMGIz.png" group-title="Romania ",Fishing & Hunting
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9123.m3u8
+#EXTINF:-1 tvg-id="fishinghunting.ro" tvg-name="Fishing & Hunting HD" tvg-logo="https://www.nicepng.com/png/detail/206-2062359_fishing-hunting-fishing-and-hunting-channel-hd.png" group-title="Romania ",Fishing & Hunting HD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/37934.m3u8
+#EXTINF:-1 tvg-id="crimeinvestigation.ro" tvg-name="Crime & Investigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg/1200px-Crime_%2B_Investigation_Logo_10.2019.svg.png" group-title="Romania ",Crime & Investigation
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9122.m3u8
+#EXTINF:-1 tvg-id="docubox.ro" tvg-name="DocuBox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/DocuBox_HD_logo.png" group-title="Romania ",DocuBox
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/37931.m3u8
+#EXTINF:-1 tvg-id="docubox.ro" tvg-name="DocuBox FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/DocuBox_HD_logo.png" group-title="Romania ",DocuBox FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/21073.m3u8
+#EXTINF:-1 tvg-id="travelmix.ro" tvg-name="Travel MIX FHD" tvg-logo="https://treambura.com/reseller/resize.php?max=32&url=https://upload.wikimedia.org/wikipedia/commons/e/ec/Travel_channel.png" group-title="Romania ",Travel MIX FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9018.m3u8
+#EXTINF:-1 tvg-id="a7tv.ro" tvg-name="Travel XP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Travel_channel.png" group-title="Romania ",Travel XP
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/37935.m3u8
+#EXTINF:-1 tvg-id="travelxp.ro" tvg-name="Travel XP FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Travel_channel.png" group-title="Romania ",Travel XP FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/30387.m3u8
+#EXTINF:-1 tvg-id="bbcarth.ro" tvg-name="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Romania ",BBC Earth
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/50192.m3u8
+#EXTINF:-1 tvg-id="bbcarth.ro" tvg-name="BBC Earth FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Romania ",BBC Earth FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9017.m3u8
+#EXTINF:-1 tvg-id="BBC.Earth.HD.ro" tvg-name="BBC First FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/BBC_First.png" group-title="Romania ",BBC First FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/30419.m3u8
+#EXTINF:-1 tvg-id="cbsreality.ro" tvg-name="CBS Reality" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/CBS_Reality.png" group-title="Romania ",CBS Reality
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/14439.m3u8
+#EXTINF:-1 tvg-id="davincilearning.ro" tvg-name="DaVinci Kids" tvg-logo="https://www.davincikids.tv/wp-content/uploads/2019/12/Da-Vinci-Primary-Logo-RGB.png" group-title="Romania ",DaVinci Kids
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/37909.m3u8
+#EXTINF:-1 tvg-id="davincilearning.ro" tvg-name="DaVinci Learning HD" tvg-logo="https://i.ibb.co/Zmy1YJK/Da-Vinci-Primary-Logo-RGB-Red-AW-copy-svg.png" group-title="Romania ",DaVinci Learning HD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/14441.m3u8
+#EXTINF:-1 tvg-id="hgtv.ro" tvg-name="HGTV" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDAzXzE1NTM0MDNf/SEdUVi5wbmcmaGFzaD00ZjExNjcxNDA3M2EzMDY2ZDQ3ZTQ1NjE4OGQ0YmU1ZQ==.png" group-title="Romania ",HGTV
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9121.m3u8
+#EXTINF:-1 tvg-id="hgtv.ro" tvg-name="HGTV HD" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDA0XzE1NTM0MDRf/SEdUVl9IRC5wbmcmaGFzaD04ZGIzYzYw/ZWE0ODRjMTZhNGMyZjk3YTQ4NGIyODJmNg==.png" group-title="Romania ",HGTV HD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/37894.m3u8
+#EXTINF:-1 tvg-id="arcadia.ro" tvg-name="Arcadia World HD" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIyJTJGMDEl/MkYwNCUyRjE0Mzg0MTFfMTQzODQxMV9B/cmNhZGlhLVRWLnBuZyZoYXNoPWY2YWUy/NjZiNzg1NjZhOTgyNmY2NmU5ZWRiY2NmYTFk.png" group-title="Romania ",Arcadia World HD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/30366.m3u8
+#EXTINF:-1 tvg-id="Exploris TV" tvg-name="Exploris Tv HD" tvg-logo="https://www.interlan.ro/wp-content/uploads/2021/12/exploris-1.png" group-title="Romania ",Exploris Tv HD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/30372.m3u8
+#EXTINF:-1 tvg-id="tvpaprika.ro" tvg-name="PaprikaTV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/61/Logo_tvpaprika.png" group-title="Romania ",PaprikaTV
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9126.m3u8
+#EXTINF:-1 tvg-id="tvpaprika.ro" tvg-name="Paprika Tv HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/61/Logo_tvpaprika.png" group-title="Romania ",Paprika Tv HD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/31402.m3u8
+#EXTINF:-1 tvg-id="FoodNetworkEMEA.us" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="Romania ",Food Network
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9128.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="⚡⚡⚡ CANALE OpenTv ⚡⚡⚡" tvg-logo="http://imgfz.com/i/V7YBlRO.png" group-title="Romania ",⚡⚡⚡ CANALE OpenTv ⚡⚡⚡
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9196.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OpenTv Premiere 2023" tvg-logo="https://opentvromania.net/assets/img/logo.png" group-title="Romania ",OpenTv Premiere 2023
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/54109.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OpenTv Premiere New 2024" tvg-logo="https://opentvromania.net/assets/img/logo.png" group-title="Romania ",OpenTv Premiere New 2024
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/58760.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OpenTv Las Fierbinti Sezon 18" tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="Romania ",OpenTv Las Fierbinti Sezon 18
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70576.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OpenTv Las Fierbinti Sezon 19" tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="Romania ",OpenTv Las Fierbinti Sezon 19
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70577.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OpenTv Las Fierbinti Sezon 20" tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="Romania ",OpenTv Las Fierbinti Sezon 20
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70578.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OpenTv Las Fierbinti Sezon 21" tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="Romania ",OpenTv Las Fierbinti Sezon 21
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70579.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OpenTv Las Fierbinti Sezon 22" tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="Romania ",OpenTv Las Fierbinti Sezon 22
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70580.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OpenTv Las Fierbinti Sezon 23" tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="Romania ",OpenTv Las Fierbinti Sezon 23
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70581.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OpenTv Las Fierbinti Sezon 24" tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="Romania ",OpenTv Las Fierbinti Sezon 24
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70582.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OpenTv Las Fierbinti Sezon 25" tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="Romania ",OpenTv Las Fierbinti Sezon 25
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70583.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OpenTv Las Fierbinti Sezonul 26" tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="Romania ",OpenTv Las Fierbinti Sezonul 26
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/71114.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OpenTv Las Fierbinti Sezonul 27" tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="Romania ",OpenTv Las Fierbinti Sezonul 27
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/75887.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OpenTv Actiune New" tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="Romania ",OpenTv Actiune New
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70591.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OpenTv Horror New" tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="Romania ",OpenTv Horror New
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70592.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OpenTv Comedie New" tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="Romania ",OpenTv Comedie New
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70593.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OpenTv SCI-FI New" tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="Romania ",OpenTv SCI-FI New
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70594.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OpenTv Documentary New" tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="Romania ",OpenTv Documentary New
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70595.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OpenTv Trilogy New" tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="Romania ",OpenTv Trilogy New
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70596.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OpenTv Manele New" tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="Romania ",OpenTv Manele New
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70597.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OpenTv Dance New" tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="Romania ",OpenTv Dance New
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70598.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OpenTv Comedy Box Podcast" tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="Romania ",OpenTv Comedy Box Podcast
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70599.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OpenTv Comedy Box" tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="Romania ",OpenTv Comedy Box
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70600.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OpenTv Thriller" tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="Romania ",OpenTv Thriller
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70584.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OpenTv Actiune" tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="Romania ",OpenTv Actiune
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70585.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OpenTv Aventura" tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="Romania ",OpenTv Aventura
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70586.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OpenTv Comedie" tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="Romania ",OpenTv Comedie
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70587.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OpenTv Premiere" tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="Romania ",OpenTv Premiere
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70588.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OpenTv Groapa Sezon 1" tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="Romania ",OpenTv Groapa Sezon 1
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70589.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OpenTv Tulsa King Sezon 1" tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="Romania ",OpenTv Tulsa King Sezon 1
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70590.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="⭐⭐⭐ OpenTV Colinde ⭐⭐⭐" tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="Romania ",⭐⭐⭐ OpenTV Colinde ⭐⭐⭐
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/71330.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="⭐⭐⭐ OpenTV Filme de Craciun ⭐⭐⭐" tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="Romania ",⭐⭐⭐ OpenTV Filme de Craciun ⭐⭐⭐
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/74436.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="⚡⚡⚡ EXCLUSIVITATE CLIENTI OpenTv ⚡⚡⚡" tvg-logo="https://opentvromania.net/assets/img/logo.png" group-title="Romania ",⚡⚡⚡ EXCLUSIVITATE CLIENTI OpenTv ⚡⚡⚡
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/25111.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Plex TV Actiune New" tvg-logo="https://plextv.live/assets/img/logo.png" group-title="Romania ",Plex TV Actiune New
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70608.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Plex TV Actiune" tvg-logo="https://plextv.live/assets/img/logo.png" group-title="Romania ",Plex TV Actiune
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70606.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Plex TV Comedie New" tvg-logo="https://plextv.live/assets/img/logo.png" group-title="Romania ",Plex TV Comedie New
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70607.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Plex TV Comedie" tvg-logo="https://plextv.live/assets/img/logo.png" group-title="Romania ",Plex TV Comedie
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70605.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Plex TV SCI-FI" tvg-logo="https://plextv.live/assets/img/logo.png" group-title="Romania ",Plex TV SCI-FI
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70609.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Plex TV Mistery" tvg-logo="https://plextv.live/assets/img/logo.png" group-title="Romania ",Plex TV Mistery
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70610.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Plex TV Documentare" tvg-logo="https://plextv.live/assets/img/logo.png" group-title="Romania ",Plex TV Documentare
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70611.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Plex TV Crime" tvg-logo="https://plextv.live/assets/img/logo.png" group-title="Romania ",Plex TV Crime
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70612.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Plex TV Drama" tvg-logo="https://plextv.live/assets/img/logo.png" group-title="Romania ",Plex TV Drama
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70613.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Plex TV Trilogy" tvg-logo="https://plextv.live/assets/img/logo.png" group-title="Romania ",Plex TV Trilogy
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70614.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Plex TV Horror" tvg-logo="https://plextv.live/assets/img/logo.png" group-title="Romania ",Plex TV Horror
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70615.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Plex TV Box Office" tvg-logo="https://plextv.live/assets/img/logo.png" group-title="Romania ",Plex TV Box Office
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70601.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Plex TV Aventura" tvg-logo="https://plextv.live/assets/img/logo.png" group-title="Romania ",Plex TV Aventura
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70604.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Plex TV Music Dance" tvg-logo="https://plextv.live/assets/img/logo.png" group-title="Romania ",Plex TV Music Dance
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70602.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Plex TV Music House" tvg-logo="https://plextv.live/assets/img/logo.png" group-title="Romania ",Plex TV Music House
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70603.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pandora TV Pistruiatul" tvg-logo="" group-title="Romania ",Pandora TV Pistruiatul
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70616.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pandora TV Filme Dublate 1" tvg-logo="" group-title="Romania ",Pandora TV Filme Dublate 1
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70617.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pandora TV Filme Dublate 2" tvg-logo="" group-title="Romania ",Pandora TV Filme Dublate 2
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70618.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pandora TV Filme Romanesti" tvg-logo="" group-title="Romania ",Pandora TV Filme Romanesti
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70619.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pandora TV Baieti De Oras Sezon 2" tvg-logo="" group-title="Romania ",Pandora TV Baieti De Oras Sezon 2
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70620.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pandora TV Baieti De Oras Sezon 3" tvg-logo="" group-title="Romania ",Pandora TV Baieti De Oras Sezon 3
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70621.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pandora TV Tom &Jerry" tvg-logo="" group-title="Romania ",Pandora TV Tom &Jerry
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70628.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NickTv Action" tvg-logo="https://nicktv.ro/wp-content/uploads/2021/03/logonick2-1.png" group-title="Romania ",NickTv Action
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/30452.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NickTv Premiere4K" tvg-logo="https://nicktv.ro/wp-content/uploads/2021/03/logonick2-1.png" group-title="Romania ",NickTv Premiere4K
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/50188.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NickTv Comedy" tvg-logo="https://nicktv.ro/wp-content/uploads/2021/03/logonick2-1.png" group-title="Romania ",NickTv Comedy
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/30454.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NickTv Animatie" tvg-logo="https://nicktv.ro/wp-content/uploads/2021/03/logonick2-1.png" group-title="Romania ",NickTv Animatie
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/50185.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NickTv Muzica de Petrecere" tvg-logo="https://nicktv.ro/wp-content/uploads/2021/03/logonick2-1.png" group-title="Romania ",NickTv Muzica de Petrecere
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/30451.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NickTv Latino" tvg-logo="https://nicktv.ro/wp-content/uploads/2021/03/logonick2-1.png" group-title="Romania ",NickTv Latino
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/30455.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NickTv Manele" tvg-logo="https://nicktv.ro/wp-content/uploads/2021/03/logonick2-1.png" group-title="Romania ",NickTv Manele
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/50186.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NickTv Romales" tvg-logo="https://nicktv.ro/wp-content/uploads/2021/03/logonick2-1.png" group-title="Romania ",NickTv Romales
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/50187.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NickTv Pescaresti" tvg-logo="https://nicktv.ro/wp-content/uploads/2021/03/logonick2-1.png" group-title="Romania ",NickTv Pescaresti
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/30453.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="⚡⚡⚡ CANALE COLABORARE AnumeTv ⚡⚡⚡" tvg-logo="" group-title="Romania ",⚡⚡⚡ CANALE COLABORARE AnumeTv ⚡⚡⚡
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/18240.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AnumeTv Premiere" tvg-logo="https://anume.ro/images/anumelogonew.png" group-title="Romania ",AnumeTv Premiere
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/37537.m3u8
+#EXTINF:-1 tvg-id="TDC" tvg-name="AnumeTv Super Eroi" tvg-logo="http://imgfz.com/i/df0v6gS.png" group-title="Romania ",AnumeTv Super Eroi
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/14451.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Anume Premiere 2025" tvg-logo="" group-title="Romania ",Anume Premiere 2025
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/82222.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AnumeTV SuperEroi 4K" tvg-logo="" group-title="Romania ",AnumeTV SuperEroi 4K
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/82223.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AnumeTV PowerCouple" tvg-logo="" group-title="Romania ",AnumeTV PowerCouple
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/82224.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AnumeTV Action" tvg-logo="" group-title="Romania ",AnumeTV Action
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/82225.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AnumeTV Drama" tvg-logo="" group-title="Romania ",AnumeTV Drama
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/82226.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AnumeTV Comedie" tvg-logo="" group-title="Romania ",AnumeTV Comedie
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/82227.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Xtream Romania Premiere" tvg-logo="https://xtream.ro/images/xtream_logo_white.png" group-title="Romania ",Xtream Romania Premiere
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/58660.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Xtream Romania Premiere 4K" tvg-logo="https://xtream.ro/images/xtream_logo_white.png" group-title="Romania ",Xtream Romania Premiere 4K
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/58661.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Xtream Romania Premiere 4K 2" tvg-logo="https://xtream.ro/images/xtream_logo_white.png" group-title="Romania ",Xtream Romania Premiere 4K 2
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/58662.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Xtream Romania Actiune 4K" tvg-logo="https://xtream.ro/images/xtream_logo_white.png" group-title="Romania ",Xtream Romania Actiune 4K
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/58663.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Xtream Romania Filme Romanesti" tvg-logo="https://xtream.ro/images/xtream_logo_white.png" group-title="Romania ",Xtream Romania Filme Romanesti
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/58664.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Xtream Romania Actiune" tvg-logo="https://xtream.ro/images/xtream_logo_white.png" group-title="Romania ",Xtream Romania Actiune
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/58665.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Xtream Romania Comedie" tvg-logo="https://xtream.ro/images/xtream_logo_white.png" group-title="Romania ",Xtream Romania Comedie
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/58666.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Xtream Romania Drama" tvg-logo="https://xtream.ro/images/xtream_logo_white.png" group-title="Romania ",Xtream Romania Drama
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/58667.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Xtream Romania Horror" tvg-logo="https://xtream.ro/images/xtream_logo_white.png" group-title="Romania ",Xtream Romania Horror
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/58668.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="⚡⚡⚡ CANALE COLABORARE PatriaTv ⚡⚡⚡" tvg-logo="" group-title="Romania ",⚡⚡⚡ CANALE COLABORARE PatriaTv ⚡⚡⚡
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/25114.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PatriaTv 2022" tvg-logo="http://imgfz.com/i/HUSGMOh.png" group-title="Romania ",PatriaTv 2022
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/19034.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PatriaTv 2023" tvg-logo="" group-title="Romania ",PatriaTv 2023
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/54240.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PatriaTv Filmul Zilei" tvg-logo="" group-title="Romania ",PatriaTv Filmul Zilei
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/31365.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PatriaTv Documentare" tvg-logo="http://imgfz.com/i/HUSGMOh.png" group-title="Romania ",PatriaTv Documentare
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/21095.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PatriaTv Cinema" tvg-logo="http://imgfz.com/i/HUSGMOh.png" group-title="Romania ",PatriaTv Cinema
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/19035.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PatriaTv Diva Film" tvg-logo="" group-title="Romania ",PatriaTv Diva Film
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/50129.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PatriaTv 2021" tvg-logo="" group-title="Romania ",PatriaTv 2021
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/31366.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PatriaTv Manele" tvg-logo="http://imgfz.com/i/HUSGMOh.png" group-title="Romania ",PatriaTv Manele
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/19032.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PatriaTv Cinema HD1" tvg-logo="" group-title="Romania ",PatriaTv Cinema HD1
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/30392.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PatriaTv Ro Hits" tvg-logo="" group-title="Romania ",PatriaTv Ro Hits
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/30393.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PatriaTv Petrecere" tvg-logo="http://imgfz.com/i/HUSGMOh.png" group-title="Romania ",PatriaTv Petrecere
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/19031.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PatriaTv Animatie" tvg-logo="" group-title="Romania ",PatriaTv Animatie
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/30448.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PatriaTv Cinemax HD" tvg-logo="" group-title="Romania ",PatriaTv Cinemax HD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/30394.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="⚡⚡⚡ CANALE COLABORARE Hnet Studio⚡⚡⚡" tvg-logo="" group-title="Romania ",⚡⚡⚡ CANALE COLABORARE Hnet Studio⚡⚡⚡
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/58763.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HNet Actiune" tvg-logo="https://i.ibb.co/HqTd02W/H-net-wi.png" group-title="Romania ",HNet Actiune
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70622.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HNet Comedie" tvg-logo="https://i.ibb.co/HqTd02W/H-net-wi.png" group-title="Romania ",HNet Comedie
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70623.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HNet Documentare" tvg-logo="https://i.ibb.co/HqTd02W/H-net-wi.png" group-title="Romania ",HNet Documentare
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70624.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HNet Horror" tvg-logo="https://i.ibb.co/HqTd02W/H-net-wi.png" group-title="Romania ",HNet Horror
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70625.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HNet SCI-FI" tvg-logo="https://i.ibb.co/HqTd02W/H-net-wi.png" group-title="Romania ",HNet SCI-FI
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/70626.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="⚡⚡⚡ CANALE COLABORARE LUCTV ⚡⚡⚡" tvg-logo="" group-title="Romania ",⚡⚡⚡ CANALE COLABORARE LUCTV ⚡⚡⚡
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/10662.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LucTv Stand Up Comedy" tvg-logo="" group-title="Romania ",LucTv Stand Up Comedy
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/10644.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LucTv 2020" tvg-logo="" group-title="Romania ",LucTv 2020
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/14525.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LucTv Kids Disney" tvg-logo="" group-title="Romania ",LucTv Kids Disney
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/10638.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LucTV Trilogy" tvg-logo="" group-title="Romania ",LucTV Trilogy
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/10646.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LucTv CINEDECOLECTIE" tvg-logo="" group-title="Romania ",LucTv CINEDECOLECTIE
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/10647.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LucTv Divertisment" tvg-logo="" group-title="Romania ",LucTv Divertisment
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/14511.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LucTv Actiune" tvg-logo="" group-title="Romania ",LucTv Actiune
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/14514.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LucTv Horror" tvg-logo="" group-title="Romania ",LucTv Horror
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/10657.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LucTv BoxOffice" tvg-logo="" group-title="Romania ",LucTv BoxOffice
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/14519.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LucTv Mistery" tvg-logo="" group-title="Romania ",LucTv Mistery
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/14520.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LucTv Western" tvg-logo="" group-title="Romania ",LucTv Western
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/14521.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LucTv Romantic" tvg-logo="" group-title="Romania ",LucTv Romantic
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/14522.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LucTv Arte Martiale" tvg-logo="" group-title="Romania ",LucTv Arte Martiale
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/14523.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LucTv Comedie Clasica" tvg-logo="" group-title="Romania ",LucTv Comedie Clasica
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/10648.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LucTv El Chapo" tvg-logo="" group-title="Romania ",LucTv El Chapo
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/14505.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LucTv Narcos" tvg-logo="" group-title="Romania ",LucTv Narcos
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/14506.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LucTv Prison Break" tvg-logo="" group-title="Romania ",LucTv Prison Break
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/14507.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LucTv Vikings" tvg-logo="" group-title="Romania ",LucTv Vikings
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/14508.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LucTv Mini Series" tvg-logo="" group-title="Romania ",LucTv Mini Series
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/14510.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LucTv Game Of Thrones" tvg-logo="" group-title="Romania ",LucTv Game Of Thrones
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/14509.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LucTv Muzica Populara" tvg-logo="" group-title="Romania ",LucTv Muzica Populara
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/17909.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LucTv Muzica Latino" tvg-logo="" group-title="Romania ",LucTv Muzica Latino
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/17963.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LucTv Documentare" tvg-logo="" group-title="Romania ",LucTv Documentare
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/17417.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LucTv Top Hits Romania" tvg-logo="" group-title="Romania ",LucTv Top Hits Romania
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/17914.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="⚡⚡⚡ CANALE COLABORARE ZonaTV ⚡⚡⚡" tvg-logo="" group-title="Romania ",⚡⚡⚡ CANALE COLABORARE ZonaTV ⚡⚡⚡
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/25129.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZoNa TV Vin Diesel Pack" tvg-logo="https://silevasile.me/logos/zonatviconvindiesel.png" group-title="Romania ",ZoNa TV Vin Diesel Pack
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/25119.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZoNa TV Keanu Reeves" tvg-logo="https://silevasile.me/logos/zonatvkeanu.png" group-title="Romania ",ZoNa TV Keanu Reeves
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/25120.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZoNa TV Jason Statham" tvg-logo="https://silevasile.me/logos/zonatvjason.png" group-title="Romania ",ZoNa TV Jason Statham
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/25122.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZoNa TV Arnold Schwarzenegger" tvg-logo="https://silevasile.me/logos/zonatvarnold.png" group-title="Romania ",ZoNa TV Arnold Schwarzenegger
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/25123.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZoNa TV Cinema" tvg-logo="https://silevasile.me/logos/zonacinema.png" group-title="Romania ",ZoNa TV Cinema
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/25124.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZoNa TV Robert De Niro" tvg-logo="https://silevasile.me/logos/zonadeniro.png" group-title="Romania ",ZoNa TV Robert De Niro
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/25125.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZoNa TV Angelina Jolie" tvg-logo="https://silevasile.me/logos/zonaangelinajolie.png" group-title="Romania ",ZoNa TV Angelina Jolie
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/25127.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZoNa TV Tom Cruise" tvg-logo="https://silevasile.me/logos/zonatomcruise.png" group-title="Romania ",ZoNa TV Tom Cruise
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/25128.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="⚡⚡⚡ CANALE COLABORARE ZokkoTV ⚡⚡⚡" tvg-logo="" group-title="Romania ",⚡⚡⚡ CANALE COLABORARE ZokkoTV ⚡⚡⚡
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/17932.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZokkoTv 4K" tvg-logo="" group-title="Romania ",ZokkoTv 4K
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/18253.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZokkoTv Movies 4K" tvg-logo="" group-title="Romania ",ZokkoTv Movies 4K
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/18254.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZokkoTv 4K Two" tvg-logo="" group-title="Romania ",ZokkoTv 4K Two
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/18255.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZokkoTv 4K Three" tvg-logo="" group-title="Romania ",ZokkoTv 4K Three
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/18256.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZokkoTV Movies 2020" tvg-logo="https://i.imgur.com/eOkTnV2.png" group-title="Romania ",ZokkoTV Movies 2020
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/17934.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZokkoTv New Releases" tvg-logo="https://i.imgur.com/eOkTnV2.png" group-title="Romania ",ZokkoTv New Releases
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/17933.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZokkoTv Music" tvg-logo="https://i.imgur.com/KpCDmnA.png" group-title="Romania ",ZokkoTv Music
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/17935.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZokkoTv Kids" tvg-logo="https://i.imgur.com/uAtF51W.png" group-title="Romania ",ZokkoTv Kids
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/17936.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZokkoTv Kids Two" tvg-logo="https://i.imgur.com/uAtF51W.png" group-title="Romania ",ZokkoTv Kids Two
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/17937.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZokkoTv Manele" tvg-logo="https://i.imgur.com/KpCDmnA.png" group-title="Romania ",ZokkoTv Manele
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/17938.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZokkoTv Action Four" tvg-logo="https://i.imgur.com/l7q2khF.png" group-title="Romania ",ZokkoTv Action Four
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/17939.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZokkoTv Action Five" tvg-logo="https://i.imgur.com/l7q2khF.png" group-title="Romania ",ZokkoTv Action Five
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/17940.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZokkoTv Action Three" tvg-logo="https://i.imgur.com/l7q2khF.png" group-title="Romania ",ZokkoTv Action Three
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/17941.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZokkoTv Comedy" tvg-logo="https://i.imgur.com/zncwNhC.png" group-title="Romania ",ZokkoTv Comedy
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/17942.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZokkoTV Comedy Two" tvg-logo="https://i.imgur.com/zncwNhC.png" group-title="Romania ",ZokkoTV Comedy Two
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/17943.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZokkoTv Horror" tvg-logo="https://i.imgur.com/hMhJHgt.png" group-title="Romania ",ZokkoTv Horror
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/17944.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZokkoTv Horror Two" tvg-logo="https://i.imgur.com/hMhJHgt.png" group-title="Romania ",ZokkoTv Horror Two
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/17945.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZokkoTv Adventure" tvg-logo="https://i.imgur.com/hMhJHgt.png" group-title="Romania ",ZokkoTv Adventure
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/17946.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZokkoTv Adventure Two" tvg-logo="https://i.imgur.com/hMhJHgt.png" group-title="Romania ",ZokkoTv Adventure Two
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/17947.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZokkoTv Thriller" tvg-logo="https://i.imgur.com/hMhJHgt.png" group-title="Romania ",ZokkoTv Thriller
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/17948.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZokkoTv Action" tvg-logo="https://i.imgur.com/l7q2khF.png" group-title="Romania ",ZokkoTv Action
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/17949.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZokkoTv Action Two" tvg-logo="https://i.imgur.com/l7q2khF.png" group-title="Romania ",ZokkoTv Action Two
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/17950.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZokkoTv Science Fiction" tvg-logo="https://i.imgur.com/hMhJHgt.png" group-title="Romania ",ZokkoTv Science Fiction
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/17952.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZokkoTv Thriller Two" tvg-logo="https://i.imgur.com/hMhJHgt.png" group-title="Romania ",ZokkoTv Thriller Two
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/17951.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="⚡⚡⚡ CANALE COLABORARE Mega ⚡⚡⚡" tvg-logo="" group-title="Romania ",⚡⚡⚡ CANALE COLABORARE Mega ⚡⚡⚡
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/17954.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="⚡⚡⚡ CANALE COLABORARE Prime ⚡⚡⚡" tvg-logo="" group-title="Romania ",⚡⚡⚡ CANALE COLABORARE Prime ⚡⚡⚡
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/18997.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="⚡⚡⚡ CANALE COLABORARE ProXTech ⚡⚡⚡" tvg-logo="" group-title="Romania ",⚡⚡⚡ CANALE COLABORARE ProXTech ⚡⚡⚡
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/58725.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PROXTECH  2023 FILM" tvg-logo="https://proxtech.com/wp-content/uploads/2020/02/logo-1552511155.png" group-title="Romania ",PROXTECH  2023 FILM
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/58692.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PROXTECH TRUE 4K CINEMA" tvg-logo="https://proxtech.com/wp-content/uploads/2020/02/logo-1552511155.png" group-title="Romania ",PROXTECH TRUE 4K CINEMA
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/58691.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PROXTECH  2022 FILM" tvg-logo="https://proxtech.com/wp-content/uploads/2020/02/logo-1552511155.png" group-title="Romania ",PROXTECH  2022 FILM
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/58693.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PROXTECH  2021 FILM" tvg-logo="https://proxtech.com/wp-content/uploads/2020/02/logo-1552511155.png" group-title="Romania ",PROXTECH  2021 FILM
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/58694.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PROXTECH  2020 FILM" tvg-logo="https://proxtech.com/wp-content/uploads/2020/02/logo-1552511155.png" group-title="Romania ",PROXTECH  2020 FILM
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/58695.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PROXTECH CINEMA CRIME" tvg-logo="https://proxtech.com/wp-content/uploads/2020/02/logo-1552511155.png" group-title="Romania ",PROXTECH CINEMA CRIME
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/58696.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PROXTECH CINEMA FICTION" tvg-logo="https://proxtech.com/wp-content/uploads/2020/02/logo-1552511155.png" group-title="Romania ",PROXTECH CINEMA FICTION
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/58697.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PROXTECH CINEMA DRAMA" tvg-logo="https://proxtech.com/wp-content/uploads/2020/02/logo-1552511155.png" group-title="Romania ",PROXTECH CINEMA DRAMA
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/58698.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PROXTECH CINEMA COMEDIE" tvg-logo="https://proxtech.com/wp-content/uploads/2020/02/logo-1552511155.png" group-title="Romania ",PROXTECH CINEMA COMEDIE
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/58699.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PROXTECH CINEMA AVENTURA" tvg-logo="https://proxtech.com/wp-content/uploads/2020/02/logo-1552511155.png" group-title="Romania ",PROXTECH CINEMA AVENTURA
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/58700.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PROXTECH CINEMA KIDS-DUBLAT" tvg-logo="https://proxtech.com/wp-content/uploads/2020/02/logo-1552511155.png" group-title="Romania ",PROXTECH CINEMA KIDS-DUBLAT
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/58701.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PROXTECH CINEMA THIRLLER" tvg-logo="https://proxtech.com/wp-content/uploads/2020/02/logo-1552511155.png" group-title="Romania ",PROXTECH CINEMA THIRLLER
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/58702.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PROXTECH CINEMA ACTIUNE" tvg-logo="https://proxtech.com/wp-content/uploads/2020/02/logo-1552511155.png" group-title="Romania ",PROXTECH CINEMA ACTIUNE
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/58703.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PROXTECH - TOM AND JERRY" tvg-logo="https://proxtech.com/wp-content/uploads/2020/02/logo-1552511155.png" group-title="Romania ",PROXTECH - TOM AND JERRY
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/58718.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PROXTECH - BUGS BANNY" tvg-logo="https://seeklogo.com/images/B/bugs-bunny-logo-83E81565BA-seeklogo.com.png" group-title="Romania ",PROXTECH - BUGS BANNY
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/58719.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PROXTECH - MASHA" tvg-logo="https://proxtech.com/wp-content/uploads/2020/02/logo-1552511155.png" group-title="Romania ",PROXTECH - MASHA
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/58720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="⚡⚡⚡ CANALE DESENE ANIMATE ⚡⚡⚡" tvg-logo="" group-title="Romania ",⚡⚡⚡ CANALE DESENE ANIMATE ⚡⚡⚡
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9201.m3u8
+#EXTINF:-1 tvg-id="boomerang.ro" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="Romania ",Boomerang
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9161.m3u8
+#EXTINF:-1 tvg-id="boomerang.ro" tvg-name="Boomerang HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="Romania ",Boomerang HD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/37917.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork.ro" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Cartoon_Network_logo_%282004-2010%29.svg/1024px-Cartoon_Network_logo_%282004-2010%29.svg.png" group-title="Romania ",Cartoon Network
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9160.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork.ro" tvg-name="Cartoon Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Cartoon_Network_logo_%282004-2010%29.svg/1024px-Cartoon_Network_logo_%282004-2010%29.svg.png" group-title="Romania ",Cartoon Network HD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/37916.m3u8
+#EXTINF:-1 tvg-id="disneyjunior.ro" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/8/83/Disney_Junior_Logo.png" group-title="Romania ",Disney Junior
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9166.m3u8
+#EXTINF:-1 tvg-id="teennick.ro" tvg-name="TeenNick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/2560px-TeenNick_2019_logo.svg.png" group-title="Romania ",TeenNick
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/17997.m3u8
+#EXTINF:-1 tvg-id="disneychannel.ro" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/DisneyChannelEMEA.svg/2560px-DisneyChannelEMEA.svg.png" group-title="Romania ",Disney Channel
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9165.m3u8
+#EXTINF:-1 tvg-id="nickelodeon.ro" tvg-name="Nickelodeon Jr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="Romania ",Nickelodeon Jr
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/30439.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito" tvg-logo="" group-title="Romania ",Cartoonito
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/58769.m3u8
+#EXTINF:-1 tvg-id="minimax.ro" tvg-name="Minimax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Minimax_logo.png" group-title="Romania ",Minimax
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9167.m3u8
+#EXTINF:-1 tvg-id="nickelodeon.ro" tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Nickelodeon.png" group-title="Romania ",Nickelodeon
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9162.m3u8
+#EXTINF:-1 tvg-id="nicktoons.ro" tvg-name="Nicktoons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" group-title="Romania ",Nicktoons
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9164.m3u8
+#EXTINF:-1 tvg-id="nickjr.ro" tvg-name="Nick Jr." tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDQyXzE1NTM0NDJf/Tmlja0pyLnBuZyZoYXNoPWU5NjAxMTg5OWMzZTUyN2Q5NTdiNjc1OWJlZTc4ODRj.png" group-title="Romania ",Nick Jr.
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9163.m3u8
+#EXTINF:-1 tvg-id="tralala.ro" tvg-name="Tralala HD" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDg1XzE1NTM0ODVf/VHJhTGFMYS5wbmcmaGFzaD04MjlhYTE0/MTYzNzQ3N2MxMmU1YzIxOGM5OGQ5ZmEwYw==.png" group-title="Romania ",Tralala HD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/31854.m3u8
+#EXTINF:-1 tvg-id="ducktv.ro" tvg-name="DuckTV" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzc5XzE1NTMzNzlf/RHVja19UVi5wbmcmaGFzaD05OTNiYWJm/OTNhZWYxM2VmNjM4NTg5MWVmYjg4MTI4NQ==.png" group-title="Romania ",DuckTV
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9168.m3u8
+#EXTINF:-1 tvg-id="jimjam.ro" tvg-name="JimJam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Jimjam_2010-2018.png" group-title="Romania ",JimJam
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9169.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="⚡⚡⚡ CANALE MUZICA ⚡⚡⚡​" tvg-logo="" group-title="Romania ",⚡⚡⚡ CANALE MUZICA ⚡⚡⚡​
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9202.m3u8
+#EXTINF:-1 tvg-id="UTV.ro" tvg-name="U TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/UTVRomaniaLogo.png" group-title="Romania ",U TV
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9139.m3u8
+#EXTINF:-1 tvg-id="utv.ro" tvg-name="U TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/UTVRomaniaLogo.png" group-title="Romania ",U TV HD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/31414.m3u8
+#EXTINF:-1 tvg-id="AcasaGold.ro" tvg-name="ZUTV" tvg-logo="https://crizze.files.wordpress.com/2016/05/zutv-logo-assembly-colored-mic.png" group-title="Romania ",ZUTV
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9142.m3u8
+#EXTINF:-1 tvg-id="zutv.ro" tvg-name="ZUTV HD" tvg-logo="https://crizze.files.wordpress.com/2016/05/zutv-logo-assembly-colored-mic.png" group-title="Romania ",ZUTV HD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9022.m3u8
+#EXTINF:-1 tvg-id="Kiss.TV.ro" tvg-name="KissTV" tvg-logo="" group-title="Romania ",KissTV
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9140.m3u8
+#EXTINF:-1 tvg-id="kisstv.ro" tvg-name="Kiss TV FHD" tvg-logo="https://antenna-group.com/wp-content/uploads/2020/03/09_KISS_TV_A-1.jpg" group-title="Romania ",Kiss TV FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/54415.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio ZU TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/a/a2/ZUTVLogo.png" group-title="Romania ",Radio ZU TV HD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/50193.m3u8
+#EXTINF:-1 tvg-id="moozro.ro" tvg-name="Mooz RO!" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/5/50/Dolce_mooz_ro.png" group-title="Romania ",Mooz RO!
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9150.m3u8
+#EXTINF:-1 tvg-id="moozhits.ro" tvg-name="Mooz Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Mooz_Hits.png" group-title="Romania ",Mooz Hits
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/37921.m3u8
+#EXTINF:-1 tvg-id="moozdance.ro" tvg-name="Mooz Dance" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Mooz_Dance_Logo.png" group-title="Romania ",Mooz Dance
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9149.m3u8
+#EXTINF:-1 tvg-id="moozdance.ro" tvg-name="Mooz Dance HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Mooz_Dance_Logo.png" group-title="Romania ",Mooz Dance HD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9021.m3u8
+#EXTINF:-1 tvg-id="mtvlive.ro" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/MTV_New_Official_Logo_2021.png" group-title="Romania ",MTV
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/37901.m3u8
+#EXTINF:-1 tvg-id="mtvlive.ro" tvg-name="Mtv Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/MTV_Live.svg/1000px-MTV_Live.svg.png" group-title="Romania ",Mtv Live
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/30438.m3u8
+#EXTINF:-1 tvg-id="MTVEurope.ro" tvg-name="MTV Europe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png" group-title="Romania ",MTV Europe
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9143.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV Rocks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MTV_Rocks_2017_logo.svg/1200px-MTV_Rocks_2017_logo.svg.png" group-title="Romania ",MTV Rocks
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9146.m3u8
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="MTV Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/MTV_Hits_logo.png" group-title="Romania ",MTV Hits
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9145.m3u8
+#EXTINF:-1 tvg-id="mtv80s.ro" tvg-name="MTV 80s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/MTV_80s_%282020%29.png" group-title="Romania ",MTV 80s
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/37929.m3u8
+#EXTINF:-1 tvg-id="mtv90s.ro" tvg-name="MTV 90s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/MTV_90s_logo.png/500px-MTV_90s_logo.png" group-title="Romania ",MTV 90s
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/37930.m3u8
+#EXTINF:-1 tvg-id="mtv00s.ro" tvg-name="Mtv 2000´s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="Romania ",Mtv 2000´s
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/30435.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV Club" tvg-logo="" group-title="Romania ",MTV Club
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/58765.m3u8
+#EXTINF:-1 tvg-id="rocktv.ro" tvg-name="RockTv " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rock_TV.png" group-title="Romania ",RockTv 
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/31407.m3u8
+#EXTINF:-1 tvg-id="magic.ro" tvg-name="MagicTv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Magic_TV.png" group-title="Romania ",MagicTv
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/13182.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Retro Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png" group-title="Romania ",Retro Music
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/14444.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Atomic Tv Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Atomic_TV_2022.png" group-title="Romania ",Atomic Tv Music
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/30395.m3u8
+#EXTINF:-1 tvg-id="Hitmusicchannel.ro" tvg-name="H!T Music Channel" tvg-logo="https://i.ibb.co/jLdSRRn/H-TMusic-Channel-Logo.png" group-title="Romania ",H!T Music Channel
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9141.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="1 Music Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/1music-tp.png" group-title="Romania ",1 Music Channel
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/11211.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Impact Dance HD" tvg-logo="" group-title="Romania ",Impact Dance HD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/31853.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="First Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/4_Music_logo.svg/985px-4_Music_logo.svg.png" group-title="Romania ",First Music
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9152.m3u8
+#EXTINF:-1 tvg-id="musicchannel.ro" tvg-name="Music Channel Ro" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/9/9e/Music_Channel2016.png" group-title="Romania ",Music Channel Ro
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/37920.m3u8
+#EXTINF:-1 tvg-id="hitmusicchannel.ro" tvg-name="First Music FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/4_Music_logo.svg/985px-4_Music_logo.svg.png" group-title="Romania ",First Music FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9024.m3u8
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="Trace Urban " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1280px-Trace_Urban_logo_2010.svg.png" group-title="Romania ",Trace Urban 
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/30385.m3u8
+#EXTINF:-1 tvg-id="taraftv.ro" tvg-name="Taraf Tv HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Taraf_TV_logo_2017-present.png" group-title="Romania ",Taraf Tv HD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/31408.m3u8
+#EXTINF:-1 tvg-id="taraftv.ro" tvg-name="Taraf Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Taraf_TV_logo_2017-present.png" group-title="Romania ",Taraf Tv
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9154.m3u8
+#EXTINF:-1 tvg-id="etno.ro" tvg-name="Etno" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzg3XzE1NTMzODdf/RXRuby5wbmcmaGFzaD0yZDljMDBlY2Q1YWZmZDFlYWM1NDM5NWJiYjMxYWY0NA==.png" group-title="Romania ",Etno
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9153.m3u8
+#EXTINF:-1 tvg-id="etno.ro" tvg-name="Etno HD" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNjU1XzE1NTM2NTVf/RXRub19IRC5wbmcmaGFzaD1mZWI1NGRm/MGJhM2FlOTAwZDQzZDA2ZTRkYTNlMTZhOA==.png" group-title="Romania ",Etno HD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/31395.m3u8
+#EXTINF:-1 tvg-id="favorit.ro" tvg-name="Favorit" tvg-logo="https://i.ibb.co/TYvtpHZ/logo-favorit.png" group-title="Romania ",Favorit
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9157.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tezaur Folclor HD" tvg-logo="https://i.ibb.co/XCFhF7C/logo-stations-tvr1.png" group-title="Romania ",Tezaur Folclor HD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/24811.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hora TV HD" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDA4XzE1NTM0MDhf/SG9yYV9UVi5wbmcmaGFzaD0zZjEwNTJm/MjAzZjE5OGIwNmI1MWQyODFlNWFkODc5MA==.png" group-title="Romania ",Hora TV HD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9156.m3u8
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="Party Mix HD" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDQ2XzE1NTM0NDZf/UGFydHlfTWl4LnBuZyZoYXNoPTk2MmVk/Y2QxN2RlZGQ1ZTQyNjQxY2FhZDM0YzZlMGVl.png" group-title="Romania ",Party Mix HD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9151.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVR Folclor" tvg-logo="" group-title="Romania ",TVR Folclor
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/58770.m3u8
+#EXTINF:-1 tvg-id="balkanikatv.ro" tvg-name="Balkanika MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png" group-title="Romania ",Balkanika MTV
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/30418.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Atomic Academy HD" tvg-logo="" group-title="Romania ",Atomic Academy HD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/53522.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DiscoMix" tvg-logo="https://www.discomix.ro/wp-content/uploads/2023/03/Disco-Mix-1.png" group-title="Romania ",DiscoMix
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/54140.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Impact Tv Manele" tvg-logo="" group-title="Romania ",Impact Tv Manele
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/26656.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Traditional Tv" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDg0XzE1NTM0ODRf/VHJhZGl0aW9uYWxfVFYucG5nJmhhc2g9/ZWM1YzQwNWUzYTFlM2E1MmQxZWExYzJhMDljNGYzNzM=.png" group-title="Romania ",Traditional Tv
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/30386.m3u8
+#EXTINF:-1 tvg-id="Noroc.md" tvg-name="NorocTV" tvg-logo="" group-title="Romania ",NorocTV
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9158.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PopasTV" tvg-logo="" group-title="Romania ",PopasTV
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9155.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="⚡⚡⚡ CANALE MOLDOVA ⚡⚡⚡" tvg-logo="" group-title="Romania ",⚡⚡⚡ CANALE MOLDOVA ⚡⚡⚡
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9256.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Moldova ʜᴅ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8e5pWqDR3xEag_ZKeI2ISF-CQAa5GoGXpiQiA2Mq9bO-TuIaLzAg-XWyaXb64eY6cfU4&usqp=CAU" group-title="Romania ",Moldova ʜᴅ
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/82282.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Noroc TV Moldova ʜᴅ" tvg-logo="https://i.simpalsmedia.com/play.md/channel/900x900/9aaa1c42e5bd47ce9aa6be26443efe09.jpg" group-title="Romania ",Noroc TV Moldova ʜᴅ
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/82283.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="N4 ʜᴅ" tvg-logo="https://n4.md/wp-content/uploads/2020/10/Logo_N4.png" group-title="Romania ",N4 ʜᴅ
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/82284.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="One TV ʜᴅ" tvg-logo="https://yt3.googleusercontent.com/zf7aofTxCv74MhZOMIjOwc-DpZfbH1XLdcZiADi9F7oYq8TXPTDY0fAx4Dv6dMB1ufkUkgSCLw=s900-c-k-c0x00ffffff-no-rj" group-title="Romania ",One TV ʜᴅ
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/82285.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="R-live ʜᴅ" tvg-logo="https://realitatea.md/wp-content/uploads/2021/03/Screenshot-2021-03-16-at-16.29.41-1.png" group-title="Romania ",R-live ʜᴅ
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/82286.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pro TV Chisinau ʜᴅ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logo_Pro_TV_Chi%C8%99in%C4%83u_%282016%29.svg" group-title="Romania ",Pro TV Chisinau ʜᴅ
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/82287.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Privesc.eu ʜᴅ" tvg-logo="https://storage.privesc.eu/images/privesc_cable.jpg" group-title="Romania ",Privesc.eu ʜᴅ
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/82288.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jurnal TV ʜᴅ" tvg-logo="https://static.cdn.jurnaltv.md/util/jurnal-tv.png" group-title="Romania ",Jurnal TV ʜᴅ
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/82289.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVC21 ʜᴅ" tvg-logo="https://pbs.twimg.com/media/Fm_-NarXoAAi5lV.jpg" group-title="Romania ",TVC21 ʜᴅ
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/82290.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV8 ʜᴅ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdYCGGxUqhZj9HnR2dy19Qwtw_0Gc4hvwzidY_NLJ0vFnoa8JQriPxpH3WzskY6Abk0m4&usqp=CAU" group-title="Romania ",TV8 ʜᴅ
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/82291.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Exclusive ʜᴅ" tvg-logo="https://www.frocus.net/images/logotv/original/tnt-exclusiv-tv-2021.jpg" group-title="Romania ",TNT Exclusive ʜᴅ
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/82292.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tezaur HD ʜᴅ" tvg-logo="https://tezaurtv.md/wp-content/uploads/2021/12/Tezaur-logo-pentru-site-alfa.png" group-title="Romania ",Tezaur HD ʜᴅ
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/82293.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="We Sport ʜᴅ" tvg-logo="https://yt3.googleusercontent.com/yUglPyTfjcfIcEc4YBEwBTO88MmWNWIF-07hZ9O0FK_GA23UYuK1t9Un3wTo4zBELhnBJnwjRwo=s900-c-k-c0x00ffffff-no-rj" group-title="Romania ",We Sport ʜᴅ
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/82296.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vocea Basarabiei ʜᴅ" tvg-logo="https://big-radio.net/uploads/posts/2022-11/radio-vocea-basarabiei.webp" group-title="Romania ",Vocea Basarabiei ʜᴅ
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/82297.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Studio L ʜᴅ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnK6j7fubfJFijKtcIOqB4ouFSILzO05jJB679x_qRaA&s" group-title="Romania ",Studio L ʜᴅ
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/82298.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star TV ʜᴅ" tvg-logo="https://tvstar.md/wp-content/uploads/2023/10/STAR-TV-logo.png" group-title="Romania ",Star TV ʜᴅ
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/82299.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SorTV ʜᴅ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsPIChYLmcHrV8k-hIIVWDZee51DGjMk1uYQ2G47cYnQ&s" group-title="Romania ",SorTV ʜᴅ
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/82300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Regional TV ʜᴅ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4AmCptuPI0oeeVdpGibeWIqpTuh9v1NpyIQllowMHQg&s" group-title="Romania ",Regional TV ʜᴅ
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/82301.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Popas TV ʜᴅ" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_k6fakEM4Yb0K4TwrcPnCqfMSSilW48_DpOK_sL=s900-c-k-c0x00ffffff-no-rj" group-title="Romania ",Popas TV ʜᴅ
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/82302.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NTS Taraclia ʜᴅ" tvg-logo="https://lh6.googleusercontent.com/proxy/LDCOo2OkNjDogdGSkm9dhEQQu9bln7q9SsWeohbZpeEluZos8wGwt3tBvjTirwRQMd9em86U7S0WFuH3minNl0QQ1c6DHN7gi2VW3UkMyfrqiq61jKaqTrDo87hHr_I" group-title="Romania ",NTS Taraclia ʜᴅ
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/82303.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Moldova 2 ʜᴅ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKgR378xryN9_isrzsRcaQIiFMMivADS8YhRG9uPjIaw&s" group-title="Romania ",Moldova 2 ʜᴅ
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/82304.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mega ʜᴅ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSBk1ihOmY99r-wXAd5iM1bSeH-kikFfZ3-1lX4dgXmQ&s" group-title="Romania ",Mega ʜᴅ
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/82305.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gurinel ʜᴅ" tvg-logo="https://oklivetv.com/wp-content/uploads/media/6a2b983ce996df701671adddae18dbef.jpeg" group-title="Romania ",Gurinel ʜᴅ
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/82306.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GRT (Gagauzia) ʜᴅ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJm6Qy3ARGdB_pQ1QLZD37VYSTFTb8bjczu3Xbh9XD6w&s" group-title="Romania ",GRT (Gagauzia) ʜᴅ
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/82307.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Global 24 ʜᴅ" tvg-logo="https://frocus.net/images/logotv/original/global24-md.jpg" group-title="Romania ",Global 24 ʜᴅ
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/82308.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Axial HD ʜᴅ" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_l4_5kcKivLmrNoZ4BtmncE5KsxyPDxZB8M60YYc-QxfeE=s900-c-k-c0x00ffffff-no-rj" group-title="Romania ",Axial HD ʜᴅ
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/82309.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Elita TV ʜᴅ" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kk5iBXmmQpnLA7AaPZ0R-cMSIoK8_8KZY4DKlNNin78w=s900-c-k-c0x00ffffff-no-rj" group-title="Romania ",Elita TV ʜᴅ
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/82310.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 1 ʜᴅ" tvg-logo="https://yt3.googleusercontent.com/TUMnhDVYHB83yIrfxFRpKMJ7-VvQWJ4jMBS8X03746RSO72KHdBQ13FpOjokOybTlfJbT-a3rA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" group-title="Romania ",Cinema 1 ʜᴅ
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/82313.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Agro TV Moldova ʜᴅ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRus9a7stXc7rVypGO_4QWNIcxhAIfYijhNljVVayAoWw&s" group-title="Romania ",Agro TV Moldova ʜᴅ
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/82314.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="7TV ʜᴅ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMrxykJmNk4Q3oxkAL4bNZOiOjNsulQXOUi1_7A2ZWwQ&s" group-title="Romania ",7TV ʜᴅ
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/82315.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="⚡⚡⚡ CANALE REGIONALE ⚡⚡⚡" tvg-logo="" group-title="Romania ",⚡⚡⚡ CANALE REGIONALE ⚡⚡⚡
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9203.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Iasi Tv" tvg-logo="https://iasitvlife.ro/wp-content/uploads/2023/02/logomare2.png" group-title="Romania ",Iasi Tv
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/1539.m3u8
+#EXTINF:-1 tvg-id="AcasaGold.ro" tvg-name="TVR Timisoara" tvg-logo="https://i.ibb.co/qr5XbT5/TVR-Timi-oara-logo-2022.png" group-title="Romania ",TVR Timisoara
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/1545.m3u8
+#EXTINF:-1 tvg-id="AcasaGold.ro" tvg-name="TVR TgMures" tvg-logo="https://i.ibb.co/GtDFdvY/TVR-Tg-Mure-logo-2022.png" group-title="Romania ",TVR TgMures
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/1546.m3u8
+#EXTINF:-1 tvg-id="AcasaGold.ro" tvg-name="TVR Craiova" tvg-logo="https://i.ibb.co/6R5CYq0/TVR-Craiova.png" group-title="Romania ",TVR Craiova
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/1547.m3u8
+#EXTINF:-1 tvg-id="AcasaGold.ro" tvg-name="TVR Cluj" tvg-logo="https://i.ibb.co/0Kh2xS0/TVR-Cluj-2022-logo.png" group-title="Romania ",TVR Cluj
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/1548.m3u8
+#EXTINF:-1 tvg-id="tvrcluj.ro" tvg-name="TVR Iasi " tvg-logo="https://i.ibb.co/wrKc33p/TVR-Ia282010-n-v-29.png" group-title="Romania ",TVR Iasi 
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/1549.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DottoTv Constanta" tvg-logo="https://i.ibb.co/MS13SZP/Sigla-DOTTO-TV.png" group-title="Romania ",DottoTv Constanta
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/18371.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tv Plus Suceava" tvg-logo="https://i.ibb.co/WFGnhbX/TV-Plus-Suceava.png" group-title="Romania ",Tv Plus Suceava
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/1557.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bucovina Tv" tvg-logo="http://static.manutv.net/canale/mari/bucovina-tv.png" group-title="Romania ",Bucovina Tv
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9174.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tv Arad HD" tvg-logo="https://tvarad.ro/assets/site/images/logo/logo-arad-orange.png" group-title="Romania ",Tv Arad HD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/26685.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tele M Botosani" tvg-logo="https://telem.ro/wp-content/uploads/2023/07/sigla-web.png" group-title="Romania ",Tele M Botosani
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/26686.m3u8
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="CredoTv" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzUyXzE1NTMzNTJf/Q3JlZG9fVFYucG5nJmhhc2g9YTA4Yjg5/ODIxMzM0MjBjMmZmYjk0Y2E5NmY1Yzg5YTE=.png" group-title="Romania ",CredoTv
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/1555.m3u8
+#EXTINF:-1 tvg-id="a7tv.ro" tvg-name="A7 HD" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzA3XzE1NTMzMDdf/YTdfVFYucG5nJmhhc2g9Yjk4Y2FhYWFjYmRhNDJkN2QxZmJmYzE3OTM5MTMyYjU=.png" group-title="Romania ",A7 HD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/1558.m3u8
+#EXTINF:-1 tvg-id="agrotv.ro" tvg-name="AgroTV" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzExXzE1NTMzMTFf/QWdyb19UVi5wbmcmaGFzaD03NGU2YWIw/NDg5ODgwMzM5NWQ1MzRhZjg5NGVlNjc4Zg==.png" group-title="Romania ",AgroTV
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9125.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DiasporaTv " tvg-logo="" group-title="Romania ",DiasporaTv 
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/14516.m3u8
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="JobTv HD" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDEzXzE1NTM0MTNf/Sm9iX1RWLnBuZyZoYXNoPTliMTI5OTQxMjE5OTA5ZDM0MDA4ZjQ5ZWQxOGJkZTYz.png" group-title="Romania ",JobTv HD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/14518.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Qub RO" tvg-logo="" group-title="Romania ",Qub RO
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/24810.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Autentic Tv" tvg-logo="" group-title="Romania ",Autentic Tv
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/30367.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Banat Tv" tvg-logo="" group-title="Romania ",Banat Tv
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/30369.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 33 HD" tvg-logo="https://i.ibb.co/n6JjBV1/logo-verde.jpg" group-title="Romania ",Canal 33 HD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/30370.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Columna Tv" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzUwXzE1NTMzNTBf/Q29sdW1uYV90di5wbmcmaGFzaD1hNjcy/MDIyOTdkZTY5MWJkNjY2ZGZmNzMyZjFkODdjNw==.png" group-title="Romania ",Columna Tv
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/30371.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kapital Tv" tvg-logo="" group-title="Romania ",Kapital Tv
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/30374.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Muscel Tv" tvg-logo="" group-title="Romania ",Muscel Tv
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/30390.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Profit RO" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjEw/JTJGMTAlMkYxNTk4OTkyXzE1OTg5OTJf/UHJvZml0LU5ld3MtSEQucG5nJmhhc2g9/YmVlYzYyYTFiNzMyZmQ5NjE1YWJjNjk4MjYyNDUwMjg=.png" group-title="Romania ",Profit RO
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9133.m3u8
+#EXTINF:-1 tvg-id="nasultv.ro" tvg-name="NasulTV" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDMyXzE1NTM0MzJf/TmFzdWxfVFYucG5nJmhhc2g9MTZiZGZj/ZTNkNjA2NGJhODJhZjMyNmM4OTBkNWQ0ZjE=.png" group-title="Romania ",NasulTV
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9134.m3u8
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="Alfa Omega" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzE0XzE1NTMzMTRf/QWxmYV9zaV9PbWVnYV9UVi5wbmcmaGFz/aD1kNDgwODQzMjBlNGU0ZmFmZmUyNGQ2ZjFhNTM3NDQyYQ==.png" group-title="Romania ",Alfa Omega
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9135.m3u8
+#EXTINF:-1 tvg-id="AcasaGold.ro" tvg-name="Trinitas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logo_Trinitas_TV_%282018%29.svg/2560px-Logo_Trinitas_TV_%282018%29.svg.png" group-title="Romania ",Trinitas
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9136.m3u8
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="SperantaTV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/Speranta-TV-Live-TV-Online.png" group-title="Romania ",SperantaTV
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9137.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rapsodia Tv" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDYyXzE1NTM0NjJf/UmFwc29kaWEucG5nJmhhc2g9ZjI1NDAz/NmZiZGExZWIwZDRlOTEyNDNkNDcyNzE1ODk=.png" group-title="Romania ",Rapsodia Tv
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9173.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Est Tv Neamt" tvg-logo="https://i.ibb.co/P6bCCYW/pngegg.png" group-title="Romania ",Est Tv Neamt
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/11213.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Sat" tvg-logo="https://tvsat.ro/wp-content/uploads/2021/01/logo-tvsat.png" group-title="Romania ",TV Sat
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/11221.m3u8
+#EXTINF:-1 tvg-id="inedittv.ro" tvg-name="Inedit Tv" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDExXzE1NTM0MTFf/SW5lZGl0X1RWLnBuZyZoYXNoPTU3YjRk/ZWY1ZmE2MTBlMWMzYzNmZDk2ODQ1YjUyNTdm.png" group-title="Romania ",Inedit Tv
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/14437.m3u8
+#EXTINF:-1 tvg-id="AcasaGold.ro" tvg-name="SuperTv RO" tvg-logo="https://supertv.ro/wp-content/uploads/2023/12/cropped-download-1-2.png" group-title="Romania ",SuperTv RO
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/14517.m3u8
+#EXTINF:-1 tvg-id="emitv.ro" tvg-name="Emi Tv Hd" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzgzXzE1NTMzODNf/ZW1pX1RWLnBuZyZoYXNoPWQ2NzZlNGE3OTE4ZTRiMDAyZjBhZDYwYzhhMmMwN2Q3.png" group-title="Romania ",Emi Tv Hd
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/28669.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tele 7 ABC HD" tvg-logo="https://treambura.com/reseller/resize.php?max=32&url=https://tele7abc.ro/wp-content/uploads/2022/01/Tele7abc-544-300x128.png" group-title="Romania ",Tele 7 ABC HD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/30147.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AngelusTv RELIGIE " tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzE3XzE1NTMzMTdf/QW5nZWx1c19UVi5wbmcmaGFzaD03N2Ni/NDVjZTdkYThkODdkMjE3NTZjOGY0ZmIxNDU2Ng==.png" group-title="Romania ",AngelusTv RELIGIE 
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/30278.m3u8
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="Moldova Tv HD" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDI3XzE1NTM0Mjdf/TW9sZG92YV9UVi5wbmcmaGFzaD1lMDIz/NzI2ZTg4M2QyODUzMjBiZTRjNDFhZTQ2MDZhYw==.png" group-title="Romania ",Moldova Tv HD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/30379.m3u8
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="Orizont Tv" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDQ0XzE1NTM0NDRf/T3Jpem9udF9UVi5wbmcmaGFzaD0zNGRk/M2IyNDRkOTNlZWY1ZWIzZGY5MGEwYzlhMmM0Zg==.png" group-title="Romania ",Orizont Tv
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/30380.m3u8
+#EXTINF:-1 tvg-id="fashiontv.ro" tvg-name="Fashion Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" group-title="Romania ",Fashion Tv
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/30425.m3u8
+#EXTINF:-1 tvg-id="a7tv.ro" tvg-name="Nest Tv Suceava" tvg-logo="" group-title="Romania ",Nest Tv Suceava
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/30427.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Maria Tv" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDIxXzE1NTM0MjFf/TWFyaWFfVFYucG5nJmhhc2g9MmNjMThh/MmEzNTc1MzMzYzU0MDhkYzBiMGI3MTQzZTE=.png" group-title="Romania ",Maria Tv
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/30432.m3u8
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="Medika Tv" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDIzXzE1NTM0MjNf/TWVkaWthX1RWLnBuZyZoYXNoPTg0NjMz/NzU5YzhmY2UwYTFlMmNjODkzNDMyMDgyZDQz.png" group-title="Romania ",Medika Tv
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/30433.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Busuioc Tv" tvg-logo="https://busuioctv.md/wp-content/uploads/2016/10/Login-Logo.png" group-title="Romania ",Busuioc Tv
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/31385.m3u8
+#EXTINF:-1 tvg-id="inedittv.ro" tvg-name="Inedit Tv HD" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDExXzE1NTM0MTFf/SW5lZGl0X1RWLnBuZyZoYXNoPTU3YjRk/ZWY1ZmE2MTBlMWMzYzNmZDk2ODQ1YjUyNTdm.png" group-title="Romania ",Inedit Tv HD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/31398.m3u8
+#EXTINF:-1 tvg-id="TV.SudEst.Regional.ro" tvg-name="TV Sud-Est" tvg-logo="" group-title="Romania ",TV Sud-Est
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/31412.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tele 7 ABC" tvg-logo="https://tele7abc.ro/wp-content/uploads/2022/01/Tele7abc-544-300x128.png" group-title="Romania ",Tele 7 ABC
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/37895.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Sud" tvg-logo="" group-title="Romania ",TV Sud
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/37896.m3u8
+#EXTINF:-1 tvg-id="antena3.ro" tvg-name="Antena 3 Iasi" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/Antena-3-Romania-Live-TV-Online.png" group-title="Romania ",Antena 3 Iasi
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/37902.m3u8
+#EXTINF:-1 tvg-id="tvrcultural.ro" tvg-name="TVR Cultural FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/TVR_Cultural_2022_logo.png" group-title="Romania ",TVR Cultural FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/37904.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVR INFO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/TVR_Info_2022_logo_flat.png" group-title="Romania ",TVR INFO HD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/37906.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV AS" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzNDkxXzE1NTM0OTFf/VFZfQVMucG5nJmhhc2g9NmQxZGQ0MTc4N2UxOGRiMjkyNjM4YWRhMDZiNTE5YjM=.png" group-title="Romania ",TV AS
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/37907.m3u8
+#EXTINF:-1 tvg-id="RomaniaTV.ro" tvg-name="Romania TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Romania_TV_2013.svg/2560px-Romania_TV_2013.svg.png" group-title="Romania ",Romania TV
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/37912.m3u8
+#EXTINF:-1 tvg-id="AcasaGold.ro" tvg-name="24 Mix Teleshop" tvg-logo="https://i.ibb.co/y01R0Gb/24-mix-casa-si-gradina-1515856619.jpg" group-title="Romania ",24 Mix Teleshop
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/37913.m3u8
+#EXTINF:-1 tvg-id="AcasaGold.ro" tvg-name="Shop On Tv HD" tvg-logo="https://media.shopontv.co.uk/images/theme/logo/shopontv/logo.png?v=7796" group-title="Romania ",Shop On Tv HD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/37914.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Cromtel FHD" tvg-logo="https://i.ibb.co/PxmTGJM/pngegg.png" group-title="Romania ",TV Cromtel FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/37923.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Valea Prahovei" tvg-logo="" group-title="Romania ",Valea Prahovei
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/53520.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SorTv MD" tvg-logo="https://i.ibb.co/4jVsycQ/SOROCA-TV.png" group-title="Romania ",SorTv MD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/53523.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Alba Carolina Tv" tvg-logo="" group-title="Romania ",Alba Carolina Tv
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/54139.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mediasud Alexandria" tvg-logo="" group-title="Romania ",Mediasud Alexandria
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/54144.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Balcan Music" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMiUyRjA3/JTJGMjclMkYxNTUzMzMxXzE1NTMzMzFf/QmFsY2FuX011c2ljX1RWLnBuZyZoYXNo/PTg1YzJmNTdlYzBmNTYwNzdhMWNlNjhmYmIxNzE2ZDQy.png" group-title="Romania ",Balcan Music
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/54151.m3u8
+#EXTINF:-1 tvg-id="ProTV.md" tvg-name="ProTV Chisinau FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_Pro_TV_%282017%29.svg/1024px-Logo_Pro_TV_%282017%29.svg.png" group-title="Romania ",ProTV Chisinau FHD
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9233.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AccentTV Oltenia" tvg-logo="" group-title="Romania ",AccentTV Oltenia
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/9255.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Media Regional" tvg-logo="" group-title="Romania ",Media Regional
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/14707.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Curier Tv" tvg-logo="https://www.curiertv.ro/images/unnamed.png" group-title="Romania ",Curier Tv
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/58771.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sens Tv" tvg-logo="" group-title="Romania ",Sens Tv
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/74509.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OpenTv Las Fierbinti Sezonul 28" tvg-logo="https://i.ibb.co/wMxwZ2P/openromania.png" group-title="Romania ",OpenTv Las Fierbinti Sezonul 28
+http://update.miicrosoft.es:80/live/Radoi_Gabriel_M/compromis/101524.m3u8
